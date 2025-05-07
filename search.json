@@ -1,38 +1,108 @@
 [
   {
-    "objectID": "Hack2theFuture.html",
-    "href": "Hack2theFuture.html",
-    "title": "Hack2theFuture",
+    "objectID": "reflective_analysis_webpage.html",
+    "href": "reflective_analysis_webpage.html",
+    "title": "Analysis of Psychology Students’ Reflective Accounts",
     "section": "",
-    "text": "Gotta change the future!"
+    "text": "This analysis explores psychology students’ reflections on their mini-dissertation experiences, providing insights into their learning journey, challenges faced, and personal growth.\n\n\n\n\n\nBasic Statistics\n\n\nMetric\nValue\n\n\n\n\nTotal Accounts\n80.00\n\n\nAverage Sentiment\n0.92\n\n\nUnique Themes\n79.00\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSentiment Distribution\n\nThe reflective accounts show a generally positive sentiment - but these were part of an assessment :-)\nMost accounts fall within the slightly positive to very positive range\nFew accounts show negative sentiment - unless you look very closely!\n\nCommon Themes\n\nResearch design and methodology are the most frequently discussed topics\nPersonal growth and learning are prominent themes\nCollaboration and project management are also significant areas of reflection\n\nLearning Outcomes\n\nStudents report significant growth in research skills\nMany highlight the value of practical research experience\nSeveral mention improved time management and project planning abilities\nTeamwork (or lack thereof) are commonly hinted at\n\n\n\n\n\nThe analysis of psychology students’ reflective accounts reveals that the mini-dissertation experience is both challenging and rewarding. Students demonstrate significant learning and growth, particularly in research skills and personal development. The generally positive sentiment suggests that, despite the challenges, students find the experience valuable for their academic and professional development.\n\n\nR version 4.5.0 (2025-04-11)\nPlatform: aarch64-apple-darwin20\nRunning under: macOS Sequoia 15.4.1\n\nMatrix products: default\nBLAS:   /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/lib/libRblas.0.dylib \nLAPACK: /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1\n\nlocale:\n[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8\n\ntime zone: Europe/London\ntzcode source: internal\n\nattached base packages:\n[1] stats     graphics  grDevices datasets  utils     methods   base     \n\nother attached packages:\n [1] sentimentr_2.9.0   tm_0.7-16          NLP_0.3-2          wordcloud_2.6     \n [5] RColorBrewer_1.1-3 plotly_4.10.4      DT_0.33            kableExtra_1.4.0  \n [9] knitr_1.50         quarto_1.4.4       lubridate_1.9.4    forcats_1.0.0     \n[13] stringr_1.5.1      dplyr_1.1.4        purrr_1.0.4        readr_2.1.5       \n[17] tidyr_1.3.1        tibble_3.2.1       ggplot2_3.5.2      tidyverse_2.0.0   \n\nloaded via a namespace (and not attached):\n [1] gtable_0.3.6      bslib_0.9.0       xfun_0.52         htmlwidgets_1.6.4\n [5] processx_3.8.6    tzdb_0.5.0        crosstalk_1.2.1   vctrs_0.6.5      \n [9] tools_4.5.0       ps_1.9.1          generics_0.1.3    parallel_4.5.0   \n[13] pkgconfig_2.0.3   data.table_1.17.0 lifecycle_1.0.4   compiler_4.5.0   \n[17] farver_2.1.2      qdapRegex_0.7.10  sass_0.4.10       htmltools_0.5.8.1\n[21] yaml_2.3.10       lazyeval_0.2.2    jquerylib_0.1.4   later_1.4.2      \n[25] pillar_1.10.2     cachem_1.1.0      lexicon_1.2.1     tidyselect_1.2.1 \n[29] digest_0.6.37     stringi_1.8.7     slam_0.1-55       labeling_0.4.3   \n[33] fastmap_1.2.0     grid_4.5.0        cli_3.6.5         magrittr_2.0.3   \n[37] textclean_0.9.3   withr_3.0.2       scales_1.4.0      timechange_0.3.0 \n[41] rmarkdown_2.29    httr_1.4.7        hms_1.1.3         evaluate_1.0.3   \n[45] viridisLite_0.4.2 rlang_1.1.6       Rcpp_1.0.14       syuzhet_1.0.7    \n[49] glue_1.8.0        xml2_1.3.8        renv_1.1.4        svglite_2.1.3    \n[53] rstudioapi_0.17.1 jsonlite_2.0.0    R6_2.6.1          systemfonts_1.2.2"
   },
   {
-    "objectID": "GoldBrains.html",
-    "href": "GoldBrains.html",
-    "title": "GoldBrains",
+    "objectID": "reflective_analysis_webpage.html#data-overview",
+    "href": "reflective_analysis_webpage.html#data-overview",
+    "title": "Analysis of Psychology Students’ Reflective Accounts",
     "section": "",
-    "text": "Who has the shiniest brain today?"
+    "text": "Basic Statistics\n\n\nMetric\nValue\n\n\n\n\nTotal Accounts\n80.00\n\n\nAverage Sentiment\n0.92\n\n\nUnique Themes\n79.00"
   },
   {
-    "objectID": "ArnieSays.html",
-    "href": "ArnieSays.html",
-    "title": "ArnieSays",
+    "objectID": "reflective_analysis_webpage.html#key-findings",
+    "href": "reflective_analysis_webpage.html#key-findings",
+    "title": "Analysis of Psychology Students’ Reflective Accounts",
     "section": "",
-    "text": "ArnieSays"
+    "text": "Sentiment Distribution\n\nThe reflective accounts show a generally positive sentiment - but these were part of an assessment :-)\nMost accounts fall within the slightly positive to very positive range\nFew accounts show negative sentiment - unless you look very closely!\n\nCommon Themes\n\nResearch design and methodology are the most frequently discussed topics\nPersonal growth and learning are prominent themes\nCollaboration and project management are also significant areas of reflection\n\nLearning Outcomes\n\nStudents report significant growth in research skills\nMany highlight the value of practical research experience\nSeveral mention improved time management and project planning abilities\nTeamwork (or lack thereof) are commonly hinted at"
   },
   {
-    "objectID": "BreakOutClub.html",
-    "href": "BreakOutClub.html",
-    "title": "BreakOutClub",
+    "objectID": "reflective_analysis_webpage.html#conclusion",
+    "href": "reflective_analysis_webpage.html#conclusion",
+    "title": "Analysis of Psychology Students’ Reflective Accounts",
     "section": "",
-    "text": "Time to break out of the club!"
+    "text": "The analysis of psychology students’ reflective accounts reveals that the mini-dissertation experience is both challenging and rewarding. Students demonstrate significant learning and growth, particularly in research skills and personal development. The generally positive sentiment suggests that, despite the challenges, students find the experience valuable for their academic and professional development.\n\n\nR version 4.5.0 (2025-04-11)\nPlatform: aarch64-apple-darwin20\nRunning under: macOS Sequoia 15.4.1\n\nMatrix products: default\nBLAS:   /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/lib/libRblas.0.dylib \nLAPACK: /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1\n\nlocale:\n[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8\n\ntime zone: Europe/London\ntzcode source: internal\n\nattached base packages:\n[1] stats     graphics  grDevices datasets  utils     methods   base     \n\nother attached packages:\n [1] sentimentr_2.9.0   tm_0.7-16          NLP_0.3-2          wordcloud_2.6     \n [5] RColorBrewer_1.1-3 plotly_4.10.4      DT_0.33            kableExtra_1.4.0  \n [9] knitr_1.50         quarto_1.4.4       lubridate_1.9.4    forcats_1.0.0     \n[13] stringr_1.5.1      dplyr_1.1.4        purrr_1.0.4        readr_2.1.5       \n[17] tidyr_1.3.1        tibble_3.2.1       ggplot2_3.5.2      tidyverse_2.0.0   \n\nloaded via a namespace (and not attached):\n [1] gtable_0.3.6      bslib_0.9.0       xfun_0.52         htmlwidgets_1.6.4\n [5] processx_3.8.6    tzdb_0.5.0        crosstalk_1.2.1   vctrs_0.6.5      \n [9] tools_4.5.0       ps_1.9.1          generics_0.1.3    parallel_4.5.0   \n[13] pkgconfig_2.0.3   data.table_1.17.0 lifecycle_1.0.4   compiler_4.5.0   \n[17] farver_2.1.2      qdapRegex_0.7.10  sass_0.4.10       htmltools_0.5.8.1\n[21] yaml_2.3.10       lazyeval_0.2.2    jquerylib_0.1.4   later_1.4.2      \n[25] pillar_1.10.2     cachem_1.1.0      lexicon_1.2.1     tidyselect_1.2.1 \n[29] digest_0.6.37     stringi_1.8.7     slam_0.1-55       labeling_0.4.3   \n[33] fastmap_1.2.0     grid_4.5.0        cli_3.6.5         magrittr_2.0.3   \n[37] textclean_0.9.3   withr_3.0.2       scales_1.4.0      timechange_0.3.0 \n[41] rmarkdown_2.29    httr_1.4.7        hms_1.1.3         evaluate_1.0.3   \n[45] viridisLite_0.4.2 rlang_1.1.6       Rcpp_1.0.14       syuzhet_1.0.7    \n[49] glue_1.8.0        xml2_1.3.8        renv_1.1.4        svglite_2.1.3    \n[53] rstudioapi_0.17.1 jsonlite_2.0.0    R6_2.6.1          systemfonts_1.2.2"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hack2theFuture",
+    "objectID": "reflective_analysis_tutorial.html",
+    "href": "reflective_analysis_tutorial.html",
+    "title": "Tutorial: Analyzing Psychology Students’ Reflective Accounts",
     "section": "",
-    "text": "GoldBrains.qmd\n\nHack2theFuture.qmd\n\nBreakOutClub.qmd\n\nArnieSays.qmd"
+    "text": "This tutorial demonstrates how to analyze psychology students’ reflective accounts using R. We’ll cover data loading, cleaning, visualization, and analysis techniques.\n\n\n\n# Install required packages if not already installed\nif (!require(\"tidyverse\")) install.packages(\"tidyverse\")\nif (!require(\"quarto\")) install.packages(\"quarto\")\nif (!require(\"knitr\")) install.packages(\"knitr\")\nif (!require(\"kableExtra\")) install.packages(\"kableExtra\")\nif (!require(\"plotly\")) install.packages(\"plotly\")\nif (!require(\"wordcloud\")) install.packages(\"wordcloud\")\nif (!require(\"tm\")) install.packages(\"tm\")\nif (!require(\"sentimentr\")) install.packages(\"sentimentr\")\n\n\n# Load required packages\nlibrary(tidyverse)    # For data manipulation and visualization\nlibrary(quarto)       # For document generation\nlibrary(knitr)        # For table formatting\nlibrary(kableExtra)   # For enhanced table styling\nlibrary(plotly)       # For interactive plots\nlibrary(wordcloud)    # For word cloud generation\nlibrary(tm)           # For text mining\nlibrary(sentimentr)   # For sentiment analysis\n\n\n\n\n\n# Read the data files\nsummary_data &lt;- read.csv(\"ReflectiveAccounts_R_Summary.csv\")\nverbatims &lt;- read.csv(\"ReflectiveAccounts_R_Verbatims.csv\")\n\n# Display the structure of the data\nstr(summary_data)\n\n'data.frame':   80 obs. of  4 variables:\n $ theme          : chr  \"Collaborative Teamwork, Time Management, Confidence in Dissertation\" \"Collaboration and Project Management\" \"Collaboration, Effective Data Management, Clear Study Design\" \"Collaboration, Leadership, Overcoming Challenges, Navigating University System, Independence, Future Preparations\" ...\n $ count          : int  1 1 1 1 1 1 1 1 1 1 ...\n $ avg_sentiment  : num  0.993 0.988 0.998 0.942 0.545 ...\n $ sample_comments: chr  \"At the beginning of this project, I was excited to explore gender differences in perception, particularly how g\"| __truncated__ \"Working on this project has highlighted both the strengths and challenges of collaborative group work. Effectiv\"| __truncated__ \"Looking back, my research journey did not start smoothly. Allocated a lab group whose interests revolved around\"| __truncated__ \"Throughout the decision-making process, I learned the value of compromise and collaboration. There were times w\"| __truncated__ ...\n\n\n\n\n\n\n# Clean theme data by splitting comma-separated values\ntheme_counts &lt;- summary_data %&gt;%\n  separate_rows(theme, sep = \", \") %&gt;%\n  count(theme, sort = TRUE) %&gt;%\n  head(10)\n\n# Display the cleaned theme data\nhead(theme_counts)\n\n# A tibble: 6 × 2\n  theme               n\n  &lt;chr&gt;           &lt;int&gt;\n1 Teamwork           30\n2 Personal Growth    21\n3 Time Management    19\n4 Research Design    17\n5 Data Analysis      15\n6 Confidence          8\n\n\n\n\n\n\n# Calculate basic statistics\ntotal_accounts &lt;- nrow(summary_data)\navg_sentiment &lt;- mean(summary_data$avg_sentiment, na.rm = TRUE)\nunique_themes &lt;- length(unique(summary_data$theme))\n\n# Create a summary table\nsummary_stats &lt;- data.frame(\n  Metric = c(\"Total Accounts\", \"Average Sentiment\", \"Unique Themes\"),\n  Value = c(total_accounts, round(avg_sentiment, 3), unique_themes)\n)\n\n# Display the summary statistics\nkable(summary_stats, \n      caption = \"Basic Statistics\",\n      format = \"html\") %&gt;%\n  kable_styling(bootstrap_options = c(\"striped\", \"hover\", \"condensed\"),\n                full_width = FALSE)\n\n\nBasic Statistics\n\n\nMetric\nValue\n\n\n\n\nTotal Accounts\n80.00\n\n\nAverage Sentiment\n0.92\n\n\nUnique Themes\n79.00\n\n\n\n\n\n\n\n\n\n\n\n\n\n# Create sentiment distribution plot\nggplot(summary_data, aes(x = avg_sentiment)) +\n  geom_histogram(bins = 20, fill = \"steelblue\", alpha = 0.7) +\n  theme_minimal() +\n  labs(\n    title = \"Distribution of Sentiment Scores\",\n    x = \"Average Sentiment Score\",\n    y = \"Count\"\n  )\n\n\n\n\n\n\n\n\n\n\n\n\n# Create theme bar plot\nggplot(theme_counts, aes(x = reorder(theme, n), y = n)) +\n  geom_bar(stat = \"identity\", fill = \"steelblue\", alpha = 0.7) +\n  coord_flip() +\n  theme_minimal() +\n  labs(\n    title = \"Top 10 Most Common Themes\",\n    x = \"Theme\",\n    y = \"Count\"\n  )\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n# Create corpus from sample comments\ntext_corpus &lt;- Corpus(VectorSource(summary_data$sample_comments))\n\n# Clean the text\ntext_corpus &lt;- tm_map(text_corpus, content_transformer(tolower))\ntext_corpus &lt;- tm_map(text_corpus, removePunctuation)\ntext_corpus &lt;- tm_map(text_corpus, removeWords, stopwords(\"english\"))\ntext_corpus &lt;- tm_map(text_corpus, stripWhitespace)\n\n# Create word cloud\nwordcloud(\n  text_corpus,\n  max.words = 100,\n  random.order = FALSE,\n  colors = brewer.pal(8, \"Dark2\")\n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n# Calculate average sentiment by theme\ntheme_sentiment &lt;- summary_data %&gt;%\n  separate_rows(theme, sep = \", \") %&gt;%\n  group_by(theme) %&gt;%\n  summarise(\n    avg_sentiment = mean(avg_sentiment, na.rm = TRUE),\n    count = n()\n  ) %&gt;%\n  arrange(desc(count)) %&gt;%\n  head(10)\n\n# Create theme sentiment plot\nggplot(theme_sentiment, aes(x = reorder(theme, avg_sentiment), y = avg_sentiment)) +\n  geom_bar(stat = \"identity\", fill = \"steelblue\", alpha = 0.7) +\n  coord_flip() +\n  theme_minimal() +\n  labs(\n    title = \"Average Sentiment by Theme\",\n    x = \"Theme\",\n    y = \"Average Sentiment Score\"\n  )\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n# Create interactive theme plot\nplot_ly(\n  data = theme_counts,\n  x = ~reorder(theme, n),\n  y = ~n,\n  type = \"bar\",\n  marker = list(color = \"steelblue\")\n) %&gt;%\n  layout(\n    title = \"Top 10 Most Common Themes\",\n    xaxis = list(title = \"Theme\"),\n    yaxis = list(title = \"Count\")\n  )\n\n\n\n\n\n\n\n\n\nThis tutorial has demonstrated various techniques for analyzing reflective account data, including: - Data loading and cleaning - Basic statistical analysis - Data visualization - Text analysis - Interactive visualizations\nThe code can be adapted for similar analyses of textual data in other contexts.\n\n\n\n\nWickham, H. (2016). ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York.\nFeinerer, I., Hornik, K., & Meyer, D. (2008). Text Mining Infrastructure in R. Journal of Statistical Software, 25(5), 1-54.\nRinker, T. W. (2018). sentimentr: Calculate Text Polarity Sentiment. Buffalo, New York.\n\n\n\nR version 4.5.0 (2025-04-11)\nPlatform: aarch64-apple-darwin20\nRunning under: macOS Sequoia 15.4.1\n\nMatrix products: default\nBLAS:   /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/lib/libRblas.0.dylib \nLAPACK: /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1\n\nlocale:\n[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8\n\ntime zone: Europe/London\ntzcode source: internal\n\nattached base packages:\n[1] stats     graphics  grDevices datasets  utils     methods   base     \n\nother attached packages:\n [1] sentimentr_2.9.0   tm_0.7-16          NLP_0.3-2          wordcloud_2.6     \n [5] RColorBrewer_1.1-3 plotly_4.10.4      kableExtra_1.4.0   knitr_1.50        \n [9] quarto_1.4.4       lubridate_1.9.4    forcats_1.0.0      stringr_1.5.1     \n[13] dplyr_1.1.4        purrr_1.0.4        readr_2.1.5        tidyr_1.3.1       \n[17] tibble_3.2.1       ggplot2_3.5.2      tidyverse_2.0.0   \n\nloaded via a namespace (and not attached):\n [1] gtable_0.3.6      xfun_0.52         htmlwidgets_1.6.4 processx_3.8.6   \n [5] tzdb_0.5.0        crosstalk_1.2.1   vctrs_0.6.5       tools_4.5.0      \n [9] ps_1.9.1          generics_0.1.3    parallel_4.5.0    pkgconfig_2.0.3  \n[13] data.table_1.17.0 lifecycle_1.0.4   compiler_4.5.0    farver_2.1.2     \n[17] qdapRegex_0.7.10  htmltools_0.5.8.1 yaml_2.3.10       lazyeval_0.2.2   \n[21] later_1.4.2       pillar_1.10.2     lexicon_1.2.1     tidyselect_1.2.1 \n[25] digest_0.6.37     stringi_1.8.7     slam_0.1-55       labeling_0.4.3   \n[29] fastmap_1.2.0     grid_4.5.0        cli_3.6.5         magrittr_2.0.3   \n[33] utf8_1.2.4        textclean_0.9.3   withr_3.0.2       scales_1.4.0     \n[37] timechange_0.3.0  rmarkdown_2.29    httr_1.4.7        hms_1.1.3        \n[41] evaluate_1.0.3    viridisLite_0.4.2 rlang_1.1.6       Rcpp_1.0.14      \n[45] syuzhet_1.0.7     glue_1.8.0        xml2_1.3.8        renv_1.1.4       \n[49] svglite_2.1.3     rstudioapi_0.17.1 jsonlite_2.0.0    R6_2.6.1         \n[53] systemfonts_1.2.2"
+  },
+  {
+    "objectID": "reflective_analysis_tutorial.html#required-packages",
+    "href": "reflective_analysis_tutorial.html#required-packages",
+    "title": "Tutorial: Analyzing Psychology Students’ Reflective Accounts",
+    "section": "",
+    "text": "# Install required packages if not already installed\nif (!require(\"tidyverse\")) install.packages(\"tidyverse\")\nif (!require(\"quarto\")) install.packages(\"quarto\")\nif (!require(\"knitr\")) install.packages(\"knitr\")\nif (!require(\"kableExtra\")) install.packages(\"kableExtra\")\nif (!require(\"plotly\")) install.packages(\"plotly\")\nif (!require(\"wordcloud\")) install.packages(\"wordcloud\")\nif (!require(\"tm\")) install.packages(\"tm\")\nif (!require(\"sentimentr\")) install.packages(\"sentimentr\")\n\n\n# Load required packages\nlibrary(tidyverse)    # For data manipulation and visualization\nlibrary(quarto)       # For document generation\nlibrary(knitr)        # For table formatting\nlibrary(kableExtra)   # For enhanced table styling\nlibrary(plotly)       # For interactive plots\nlibrary(wordcloud)    # For word cloud generation\nlibrary(tm)           # For text mining\nlibrary(sentimentr)   # For sentiment analysis"
+  },
+  {
+    "objectID": "reflective_analysis_tutorial.html#data-loading-and-initial-exploration",
+    "href": "reflective_analysis_tutorial.html#data-loading-and-initial-exploration",
+    "title": "Tutorial: Analyzing Psychology Students’ Reflective Accounts",
+    "section": "",
+    "text": "# Read the data files\nsummary_data &lt;- read.csv(\"ReflectiveAccounts_R_Summary.csv\")\nverbatims &lt;- read.csv(\"ReflectiveAccounts_R_Verbatims.csv\")\n\n# Display the structure of the data\nstr(summary_data)\n\n'data.frame':   80 obs. of  4 variables:\n $ theme          : chr  \"Collaborative Teamwork, Time Management, Confidence in Dissertation\" \"Collaboration and Project Management\" \"Collaboration, Effective Data Management, Clear Study Design\" \"Collaboration, Leadership, Overcoming Challenges, Navigating University System, Independence, Future Preparations\" ...\n $ count          : int  1 1 1 1 1 1 1 1 1 1 ...\n $ avg_sentiment  : num  0.993 0.988 0.998 0.942 0.545 ...\n $ sample_comments: chr  \"At the beginning of this project, I was excited to explore gender differences in perception, particularly how g\"| __truncated__ \"Working on this project has highlighted both the strengths and challenges of collaborative group work. Effectiv\"| __truncated__ \"Looking back, my research journey did not start smoothly. Allocated a lab group whose interests revolved around\"| __truncated__ \"Throughout the decision-making process, I learned the value of compromise and collaboration. There were times w\"| __truncated__ ..."
+  },
+  {
+    "objectID": "reflective_analysis_tutorial.html#data-cleaning-and-preparation",
+    "href": "reflective_analysis_tutorial.html#data-cleaning-and-preparation",
+    "title": "Tutorial: Analyzing Psychology Students’ Reflective Accounts",
+    "section": "",
+    "text": "# Clean theme data by splitting comma-separated values\ntheme_counts &lt;- summary_data %&gt;%\n  separate_rows(theme, sep = \", \") %&gt;%\n  count(theme, sort = TRUE) %&gt;%\n  head(10)\n\n# Display the cleaned theme data\nhead(theme_counts)\n\n# A tibble: 6 × 2\n  theme               n\n  &lt;chr&gt;           &lt;int&gt;\n1 Teamwork           30\n2 Personal Growth    21\n3 Time Management    19\n4 Research Design    17\n5 Data Analysis      15\n6 Confidence          8"
+  },
+  {
+    "objectID": "reflective_analysis_tutorial.html#basic-statistics",
+    "href": "reflective_analysis_tutorial.html#basic-statistics",
+    "title": "Tutorial: Analyzing Psychology Students’ Reflective Accounts",
+    "section": "",
+    "text": "# Calculate basic statistics\ntotal_accounts &lt;- nrow(summary_data)\navg_sentiment &lt;- mean(summary_data$avg_sentiment, na.rm = TRUE)\nunique_themes &lt;- length(unique(summary_data$theme))\n\n# Create a summary table\nsummary_stats &lt;- data.frame(\n  Metric = c(\"Total Accounts\", \"Average Sentiment\", \"Unique Themes\"),\n  Value = c(total_accounts, round(avg_sentiment, 3), unique_themes)\n)\n\n# Display the summary statistics\nkable(summary_stats, \n      caption = \"Basic Statistics\",\n      format = \"html\") %&gt;%\n  kable_styling(bootstrap_options = c(\"striped\", \"hover\", \"condensed\"),\n                full_width = FALSE)\n\n\nBasic Statistics\n\n\nMetric\nValue\n\n\n\n\nTotal Accounts\n80.00\n\n\nAverage Sentiment\n0.92\n\n\nUnique Themes\n79.00"
+  },
+  {
+    "objectID": "reflective_analysis_tutorial.html#data-visualization",
+    "href": "reflective_analysis_tutorial.html#data-visualization",
+    "title": "Tutorial: Analyzing Psychology Students’ Reflective Accounts",
+    "section": "",
+    "text": "# Create sentiment distribution plot\nggplot(summary_data, aes(x = avg_sentiment)) +\n  geom_histogram(bins = 20, fill = \"steelblue\", alpha = 0.7) +\n  theme_minimal() +\n  labs(\n    title = \"Distribution of Sentiment Scores\",\n    x = \"Average Sentiment Score\",\n    y = \"Count\"\n  )\n\n\n\n\n\n\n\n\n\n\n\n\n# Create theme bar plot\nggplot(theme_counts, aes(x = reorder(theme, n), y = n)) +\n  geom_bar(stat = \"identity\", fill = \"steelblue\", alpha = 0.7) +\n  coord_flip() +\n  theme_minimal() +\n  labs(\n    title = \"Top 10 Most Common Themes\",\n    x = \"Theme\",\n    y = \"Count\"\n  )"
+  },
+  {
+    "objectID": "reflective_analysis_tutorial.html#text-analysis",
+    "href": "reflective_analysis_tutorial.html#text-analysis",
+    "title": "Tutorial: Analyzing Psychology Students’ Reflective Accounts",
+    "section": "",
+    "text": "# Create corpus from sample comments\ntext_corpus &lt;- Corpus(VectorSource(summary_data$sample_comments))\n\n# Clean the text\ntext_corpus &lt;- tm_map(text_corpus, content_transformer(tolower))\ntext_corpus &lt;- tm_map(text_corpus, removePunctuation)\ntext_corpus &lt;- tm_map(text_corpus, removeWords, stopwords(\"english\"))\ntext_corpus &lt;- tm_map(text_corpus, stripWhitespace)\n\n# Create word cloud\nwordcloud(\n  text_corpus,\n  max.words = 100,\n  random.order = FALSE,\n  colors = brewer.pal(8, \"Dark2\")\n)"
+  },
+  {
+    "objectID": "reflective_analysis_tutorial.html#advanced-analysis",
+    "href": "reflective_analysis_tutorial.html#advanced-analysis",
+    "title": "Tutorial: Analyzing Psychology Students’ Reflective Accounts",
+    "section": "",
+    "text": "# Calculate average sentiment by theme\ntheme_sentiment &lt;- summary_data %&gt;%\n  separate_rows(theme, sep = \", \") %&gt;%\n  group_by(theme) %&gt;%\n  summarise(\n    avg_sentiment = mean(avg_sentiment, na.rm = TRUE),\n    count = n()\n  ) %&gt;%\n  arrange(desc(count)) %&gt;%\n  head(10)\n\n# Create theme sentiment plot\nggplot(theme_sentiment, aes(x = reorder(theme, avg_sentiment), y = avg_sentiment)) +\n  geom_bar(stat = \"identity\", fill = \"steelblue\", alpha = 0.7) +\n  coord_flip() +\n  theme_minimal() +\n  labs(\n    title = \"Average Sentiment by Theme\",\n    x = \"Theme\",\n    y = \"Average Sentiment Score\"\n  )"
+  },
+  {
+    "objectID": "reflective_analysis_tutorial.html#interactive-visualizations",
+    "href": "reflective_analysis_tutorial.html#interactive-visualizations",
+    "title": "Tutorial: Analyzing Psychology Students’ Reflective Accounts",
+    "section": "",
+    "text": "# Create interactive theme plot\nplot_ly(\n  data = theme_counts,\n  x = ~reorder(theme, n),\n  y = ~n,\n  type = \"bar\",\n  marker = list(color = \"steelblue\")\n) %&gt;%\n  layout(\n    title = \"Top 10 Most Common Themes\",\n    xaxis = list(title = \"Theme\"),\n    yaxis = list(title = \"Count\")\n  )"
+  },
+  {
+    "objectID": "reflective_analysis_tutorial.html#conclusion",
+    "href": "reflective_analysis_tutorial.html#conclusion",
+    "title": "Tutorial: Analyzing Psychology Students’ Reflective Accounts",
+    "section": "",
+    "text": "This tutorial has demonstrated various techniques for analyzing reflective account data, including: - Data loading and cleaning - Basic statistical analysis - Data visualization - Text analysis - Interactive visualizations\nThe code can be adapted for similar analyses of textual data in other contexts."
+  },
+  {
+    "objectID": "reflective_analysis_tutorial.html#references",
+    "href": "reflective_analysis_tutorial.html#references",
+    "title": "Tutorial: Analyzing Psychology Students’ Reflective Accounts",
+    "section": "",
+    "text": "Wickham, H. (2016). ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York.\nFeinerer, I., Hornik, K., & Meyer, D. (2008). Text Mining Infrastructure in R. Journal of Statistical Software, 25(5), 1-54.\nRinker, T. W. (2018). sentimentr: Calculate Text Polarity Sentiment. Buffalo, New York.\n\n\n\nR version 4.5.0 (2025-04-11)\nPlatform: aarch64-apple-darwin20\nRunning under: macOS Sequoia 15.4.1\n\nMatrix products: default\nBLAS:   /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/lib/libRblas.0.dylib \nLAPACK: /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1\n\nlocale:\n[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8\n\ntime zone: Europe/London\ntzcode source: internal\n\nattached base packages:\n[1] stats     graphics  grDevices datasets  utils     methods   base     \n\nother attached packages:\n [1] sentimentr_2.9.0   tm_0.7-16          NLP_0.3-2          wordcloud_2.6     \n [5] RColorBrewer_1.1-3 plotly_4.10.4      kableExtra_1.4.0   knitr_1.50        \n [9] quarto_1.4.4       lubridate_1.9.4    forcats_1.0.0      stringr_1.5.1     \n[13] dplyr_1.1.4        purrr_1.0.4        readr_2.1.5        tidyr_1.3.1       \n[17] tibble_3.2.1       ggplot2_3.5.2      tidyverse_2.0.0   \n\nloaded via a namespace (and not attached):\n [1] gtable_0.3.6      xfun_0.52         htmlwidgets_1.6.4 processx_3.8.6   \n [5] tzdb_0.5.0        crosstalk_1.2.1   vctrs_0.6.5       tools_4.5.0      \n [9] ps_1.9.1          generics_0.1.3    parallel_4.5.0    pkgconfig_2.0.3  \n[13] data.table_1.17.0 lifecycle_1.0.4   compiler_4.5.0    farver_2.1.2     \n[17] qdapRegex_0.7.10  htmltools_0.5.8.1 yaml_2.3.10       lazyeval_0.2.2   \n[21] later_1.4.2       pillar_1.10.2     lexicon_1.2.1     tidyselect_1.2.1 \n[25] digest_0.6.37     stringi_1.8.7     slam_0.1-55       labeling_0.4.3   \n[29] fastmap_1.2.0     grid_4.5.0        cli_3.6.5         magrittr_2.0.3   \n[33] utf8_1.2.4        textclean_0.9.3   withr_3.0.2       scales_1.4.0     \n[37] timechange_0.3.0  rmarkdown_2.29    httr_1.4.7        hms_1.1.3        \n[41] evaluate_1.0.3    viridisLite_0.4.2 rlang_1.1.6       Rcpp_1.0.14      \n[45] syuzhet_1.0.7     glue_1.8.0        xml2_1.3.8        renv_1.1.4       \n[49] svglite_2.1.3     rstudioapi_0.17.1 jsonlite_2.0.0    R6_2.6.1         \n[53] systemfonts_1.2.2"
   },
   {
     "objectID": "about.html",
@@ -40,5 +110,362 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hack2theFuture",
+    "section": "",
+    "text": "A day of ideas, innovation, and irreverence — brought to you by you.\nThis isn’t just another workshop — it’s a space to co-create tools, challenges, and hacks that make psychology more powerful, more practical, and way more fun.\n\n\n\n\n\n\n\nGoldBrains\n\n\n\n\nVisit GoldBrains →\nCelebrate the best of the staff and college — the serious and the slightly weird student-voted awards. And suggest categories for student awards, maybe? If you want…\n\n\n\n\n\n\nWeird Science Hack\n\n\n\n\nSee what’s in store →\nTake control of your future in the department — ideas to make studying, socialising and researching weirder and more wonderful.\n\n\n\n\n\n\nBreakout Club\n\n\n\n\nJoin the BreakOut →\nIt used to be the Breakfast Club - until we agreed we don’t like mornings. See previous examples of student-led efforts to unlock their Psychology degree with skills, puzzles, publications, portfolios and pliers.\n\n\n\n\n\n\nArnie Says\n\n\n\n\nI am a cybernetic Psychologist, living tissue over metal endoskeleton →\nWe have teleported students from Year 2 and Year 3 to share their wisdom, hacks and tales of cunning. They will beam back insights to help you terminate the journey ahead. And you can ask them anything via WooClap here https://app.wooclap.com/OZRLIY?from=instruction-slide event code OZRLIY at wooclap.com\n\n\n\n\n\n\n  \n    \n    \n    \n      \n      \n\n      \n        Ghostly encounters, alien abduction, reincarnation, talking to the dead, UFO sightings, inexplicable coincidences, out-of-body and near-death experiences...\n      \n\n      \n        Are these legitimate phenomena? If not, how should we understand them? In this accessible and gratifying session, \n        Chris French takes us on a tour of the paranormal — not to confirm it, but to understand why our minds so often generate it. \n        Drawing from decades of research in anomalistic psychology, he’ll walk us through scientific, statistical, and psychological explanations behind some of the most bizarre and persistent beliefs humans hold.\n      \n\n      \n        Expect light-bulb moments, compelling science, and a few uncomfortable truths. This is not just a talk about ghosts and aliens — \n        it’s a masterclass in critical thinking, cognitive biases, and the psychology of belief.\n      \n\n      \n        Spoiler alert: it’s not about debunking — it’s about understanding ourselves.\n      \n    \n\n    \n    \n      \n    \n\n  \n\n\n\n\nEach zone has a place for feedback and voting. Winners get glory, prizes, and questionable fame.\n\n\n\n\nIt’s all just R and Quarto. Follow the Github Icon in the top right and see the code.\n\n\n\n\n\n\n  \n    Made with ❤️,\n    \n    +\n    \n    , and questionable 80s movie references\n  \n\n\n  \n    A LittleMonkeyLab Caper · Assembled by Dr Gordon Wright · 2025 · \n    View source \n  \n\n  \n    “I’ve seen things you people wouldn’t believe… Bonferroni ignored, assumptions untested, and interaction effects misread… saved version FINALFINALFINAL, lost - like teardrops in the rain”\n  \n\n  \n    ⚠️ Warning: Exposure to this content may result in temporal disruption,vibe-coding and a mild obsession with Kenny Loggins."
+  },
+  {
+    "objectID": "index.html#explore-the-zones",
+    "href": "index.html#explore-the-zones",
+    "title": "Hack2theFuture",
+    "section": "",
+    "text": "GoldBrains\n\n\n\n\nVisit GoldBrains →\nCelebrate the best of the staff and college — the serious and the slightly weird student-voted awards. And suggest categories for student awards, maybe? If you want…\n\n\n\n\n\n\nWeird Science Hack\n\n\n\n\nSee what’s in store →\nTake control of your future in the department — ideas to make studying, socialising and researching weirder and more wonderful.\n\n\n\n\n\n\nBreakout Club\n\n\n\n\nJoin the BreakOut →\nIt used to be the Breakfast Club - until we agreed we don’t like mornings. See previous examples of student-led efforts to unlock their Psychology degree with skills, puzzles, publications, portfolios and pliers.\n\n\n\n\n\n\nArnie Says\n\n\n\n\nI am a cybernetic Psychologist, living tissue over metal endoskeleton →\nWe have teleported students from Year 2 and Year 3 to share their wisdom, hacks and tales of cunning. They will beam back insights to help you terminate the journey ahead. And you can ask them anything via WooClap here https://app.wooclap.com/OZRLIY?from=instruction-slide event code OZRLIY at wooclap.com\n\n\n\n\n\n\n  \n    \n    \n    \n      \n      \n\n      \n        Ghostly encounters, alien abduction, reincarnation, talking to the dead, UFO sightings, inexplicable coincidences, out-of-body and near-death experiences...\n      \n\n      \n        Are these legitimate phenomena? If not, how should we understand them? In this accessible and gratifying session, \n        Chris French takes us on a tour of the paranormal — not to confirm it, but to understand why our minds so often generate it. \n        Drawing from decades of research in anomalistic psychology, he’ll walk us through scientific, statistical, and psychological explanations behind some of the most bizarre and persistent beliefs humans hold.\n      \n\n      \n        Expect light-bulb moments, compelling science, and a few uncomfortable truths. This is not just a talk about ghosts and aliens — \n        it’s a masterclass in critical thinking, cognitive biases, and the psychology of belief.\n      \n\n      \n        Spoiler alert: it’s not about debunking — it’s about understanding ourselves."
+  },
+  {
+    "objectID": "index.html#cast-your-votes-share-your-thoughts",
+    "href": "index.html#cast-your-votes-share-your-thoughts",
+    "title": "Hack2theFuture",
+    "section": "",
+    "text": "Each zone has a place for feedback and voting. Winners get glory, prizes, and questionable fame."
+  },
+  {
+    "objectID": "index.html#want-to-make-your-website-like-this",
+    "href": "index.html#want-to-make-your-website-like-this",
+    "title": "Hack2theFuture",
+    "section": "",
+    "text": "It’s all just R and Quarto. Follow the Github Icon in the top right and see the code.\n\n\n\n\n\n\n  \n    Made with ❤️,\n    \n    +\n    \n    , and questionable 80s movie references\n  \n\n\n  \n    A LittleMonkeyLab Caper · Assembled by Dr Gordon Wright · 2025 · \n    View source \n  \n\n  \n    “I’ve seen things you people wouldn’t believe… Bonferroni ignored, assumptions untested, and interaction effects misread… saved version FINALFINALFINAL, lost - like teardrops in the rain”\n  \n\n  \n    ⚠️ Warning: Exposure to this content may result in temporal disruption,vibe-coding and a mild obsession with Kenny Loggins."
+  },
+  {
+    "objectID": "BreakOutClub_slides.html#breakout-club",
+    "href": "BreakOutClub_slides.html#breakout-club",
+    "title": "BreakOut Club",
+    "section": "Breakout Club",
+    "text": "Breakout Club\nuseful · fun · psychology"
+  },
+  {
+    "objectID": "BreakOutClub_slides.html#guiding-principles",
+    "href": "BreakOutClub_slides.html#guiding-principles",
+    "title": "BreakOut Club",
+    "section": "Guiding Principles 🧭",
+    "text": "Guiding Principles 🧭\n\nFits your schedule and time constraints\n\nBuilds your CV / portfolio\n\nPsychology-related or skill-building\n\nLow barrier to entry · high ceiling for growth"
+  },
+  {
+    "objectID": "BreakOutClub_slides.html#how-to-get-involved",
+    "href": "BreakOutClub_slides.html#how-to-get-involved",
+    "title": "BreakOut Club",
+    "section": "How to Get Involved 🚀",
+    "text": "How to Get Involved 🚀\nWhat would you like to build, code, write, test, or fix?\nWhat does it look like, how does it work, and what help do you need?"
+  },
+  {
+    "objectID": "seats.html",
+    "href": "seats.html",
+    "title": "seats",
+    "section": "",
+    "text": "Today’s Seats Code\nSign in ONLY ONCE today - this covers 10am - 4pm"
+  },
+  {
+    "objectID": "ArnieSays.html",
+    "href": "ArnieSays.html",
+    "title": "FutureSelf Panel Discussion",
+    "section": "",
+    "text": "“Come with me if you want to learn.”\n  \n  \n  \n  \n  \n    Co-creating the future of psychological science — one paradox at a time."
+  },
+  {
+    "objectID": "ArnieSays.html#whats-going-on",
+    "href": "ArnieSays.html#whats-going-on",
+    "title": "FutureSelf Panel Discussion",
+    "section": "1  What’s Going On?",
+    "text": "1  What’s Going On?\n\nWe couldn’t afford to rent a Terminator, so we did the next best thing:\nimported wisdom from your own future.\nSecond‑ and third‑year Psychology students will beam back lessons, hacks and tales of derring-do to help you ace the journey ahead.\n\nYour mission, first‑years\n\nGrill the “time‑travellers” for intel.\n\nCapture any burning questions in the live WooClap.\n\nLeave with at least one actionable plan for world (or degree) domination."
+  },
+  {
+    "objectID": "ArnieSays.html#ask-your-future-self",
+    "href": "ArnieSays.html#ask-your-future-self",
+    "title": "FutureSelf Panel Discussion",
+    "section": "2  Ask Your Future Self",
+    "text": "2  Ask Your Future Self\nScan or click to open the live question box.\n\n  \n\n\n  or type: wooclap.com/OZRLIY\n\nWhat to drop in the Woo\n\nA question you don’t feel comfy asking aloud\n\nA topic you want a deeper dive on during the Panel or afterwards\n\nAny comments\n\n\nNote: The form is anonymous. We’ll surface the most‑upvoted questions live. And any we don’t cover will be sent to the time‑travellers for a follow‑up (after exams!)"
+  },
+  {
+    "objectID": "ArnieSays.html#loot-box",
+    "href": "ArnieSays.html#loot-box",
+    "title": "FutureSelf Panel Discussion",
+    "section": "3  Loot Box 🎁",
+    "text": "3  Loot Box 🎁\nPost a question for our Terminators and you’ll be entered into a prize draw for a Weird prize."
+  },
+  {
+    "objectID": "ArnieSays.html#some-further-real-life-examples-from-y2-mini-dissertation-reflective-accounts",
+    "href": "ArnieSays.html#some-further-real-life-examples-from-y2-mini-dissertation-reflective-accounts",
+    "title": "FutureSelf Panel Discussion",
+    "section": "5  Some further Real-Life examples from Y2 Mini-Dissertation Reflective Accounts",
+    "text": "5  Some further Real-Life examples from Y2 Mini-Dissertation Reflective Accounts\n\n\n\n\n\n  \n    Made with ❤️,\n    \n    +\n    \n    , and questionable 80s movie references\n  \n\n\n  \n    A LittleMonkeyLab Caper · Assembled by Dr Gordon Wright · 2025\n  \n\n  \n    “I’ve seen things you people wouldn’t believe… Bonferroni ignored, assumptions untested, and interaction effects misread… saved version FINALFINALFINAL, lost - like teardrops in the rain”\n  \n\n  \n    ⚠️ Warning: Exposure to this content may result in enhanced agency, temporal disruption, and a mild obsession with experimental design."
+  },
+  {
+    "objectID": "Hack2theFuture_slides.html#welcome-to-the-microhack",
+    "href": "Hack2theFuture_slides.html#welcome-to-the-microhack",
+    "title": "Introduction to Hackathons",
+    "section": "Welcome to the Micro‑Hack 🚀",
+    "text": "Welcome to the Micro‑Hack 🚀\n“Frame first, build later”"
+  },
+  {
+    "objectID": "Hack2theFuture_slides.html#rough-timeline",
+    "href": "Hack2theFuture_slides.html#rough-timeline",
+    "title": "Introduction to Hackathons",
+    "section": "Rough Timeline",
+    "text": "Rough Timeline\n\n\n\nBlock\nActivity\n\n\n\n\n11-12\nWelcome · Talks · Brainstorm · Teams\n\n\nLunch\nAllow insight to strike and pennies to drop!\n\n\n1-2\nStand‑ups · Mapping · Metrics · Pitches"
+  },
+  {
+    "objectID": "Hack2theFuture_slides.html#photograph-any-documents",
+    "href": "Hack2theFuture_slides.html#photograph-any-documents",
+    "title": "Introduction to Hackathons",
+    "section": "Photograph any documents",
+    "text": "Photograph any documents\nSubmit any documents or scribbles to the Qualtrics link on the walls!\nThese are ‘Seed Documents’ for the future Hackathon"
+  },
+  {
+    "objectID": "Hack2theFuture_slides.html#crazy-8s-solo-brainstorm",
+    "href": "Hack2theFuture_slides.html#crazy-8s-solo-brainstorm",
+    "title": "Introduction to Hackathons",
+    "section": "Crazy 8s – Solo Brainstorm",
+    "text": "Crazy 8s – Solo Brainstorm\n\nFold paper into 8 panels\n\n60 s per box – 8 ideas\n\nGo for quantity, not polish"
+  },
+  {
+    "objectID": "Hack2theFuture_slides.html#affinity-wall",
+    "href": "Hack2theFuture_slides.html#affinity-wall",
+    "title": "Introduction to Hackathons",
+    "section": "Affinity Wall 🔖",
+    "text": "Affinity Wall 🔖\nGroup similar ideas, name the cluster."
+  },
+  {
+    "objectID": "Hack2theFuture_slides.html#dotvote-headline",
+    "href": "Hack2theFuture_slides.html#dotvote-headline",
+    "title": "Introduction to Hackathons",
+    "section": "Dot‑Vote & Headline",
+    "text": "Dot‑Vote & Headline\n3 dots each → shortlist top 5\nWrite a How‑Might‑We headline for each."
+  },
+  {
+    "objectID": "Hack2theFuture_slides.html#lean-problem-canvas",
+    "href": "Hack2theFuture_slides.html#lean-problem-canvas",
+    "title": "Introduction to Hackathons",
+    "section": "Lean Problem Canvas",
+    "text": "Lean Problem Canvas\n\n(Boxes 1‑9 explained in hand‑out)"
+  },
+  {
+    "objectID": "Hack2theFuture_slides.html#value-feasibility-mapping",
+    "href": "Hack2theFuture_slides.html#value-feasibility-mapping",
+    "title": "Introduction to Hackathons",
+    "section": "Value × Feasibility Mapping",
+    "text": "Value × Feasibility Mapping\nHigh value / Easy‑build wins.\nKill or park the rest."
+  },
+  {
+    "objectID": "Hack2theFuture_slides.html#success-metrics",
+    "href": "Hack2theFuture_slides.html#success-metrics",
+    "title": "Introduction to Hackathons",
+    "section": "Success Metrics",
+    "text": "Success Metrics\n\n“What does ‘good’ look like by demo day?”\n\n\nOne quantitative metric\n\nFriday‑night end‑state sketch"
+  },
+  {
+    "objectID": "Hack2theFuture_slides.html#lightning-pitch-format",
+    "href": "Hack2theFuture_slides.html#lightning-pitch-format",
+    "title": "Introduction to Hackathons",
+    "section": "Lightning Pitch Format",
+    "text": "Lightning Pitch Format\n\nProblem → Impact\n\nRoot‑cause evidence\n\nFirst milestone\n\nAsk (expertise/resources)\n\n1 slide · 1 minute · 1 voice"
+  },
+  {
+    "objectID": "Hack2theFuture_slides.html#idea-buffet",
+    "href": "Hack2theFuture_slides.html#idea-buffet",
+    "title": "Introduction to Hackathons",
+    "section": "Idea Buffet 🍿",
+    "text": "Idea Buffet 🍿\n\n\n\nLens\nPick your spice\n\n\n\n\nCommunity\n🧑‍⚕️ 📱 🐾\n\n\nDepartment\n🏅 📊 🍰\n\n\nSchools\n🧪 🎪 🎓\n\n\nPersonal\n💼 💰 ⏰\n\n\nResearch\n🧬 🤖 👀\n\n\n\n(See guide page for full prompts)"
+  },
+  {
+    "objectID": "Hack2theFuture_slides.html#materials-check",
+    "href": "Hack2theFuture_slides.html#materials-check",
+    "title": "Introduction to Hackathons",
+    "section": "Materials Check",
+    "text": "Materials Check\n✅ Sticky notes\n✅ Dot stickers\n✅ Sharpies\n✅ Flip‑charts\n✅ Food & drink\n✅ Canvas print‑outs"
+  },
+  {
+    "objectID": "Hack2theFuture_slides.html#seedfile-your-ticket",
+    "href": "Hack2theFuture_slides.html#seedfile-your-ticket",
+    "title": "Introduction to Hackathons",
+    "section": "Seed‑File = Your Ticket 🎟️",
+    "text": "Seed‑File = Your Ticket 🎟️\nCommit seed-file.md → push to repo\nBring it to the full hack kickoff."
+  },
+  {
+    "objectID": "Hack2theFuture_slides.html#ready-60-minutes-to-lunch-go",
+    "href": "Hack2theFuture_slides.html#ready-60-minutes-to-lunch-go",
+    "title": "Introduction to Hackathons",
+    "section": "Ready? 60 minutes to lunch – GO!",
+    "text": "Ready? 60 minutes to lunch – GO!"
+  },
+  {
+    "objectID": "BreakOutClub.html",
+    "href": "BreakOutClub.html",
+    "title": "BreakOutClub",
+    "section": "",
+    "text": "Turn spare ideas into portfolio gold ⭐"
+  },
+  {
+    "objectID": "BreakOutClub.html#why-breakout-club",
+    "href": "BreakOutClub.html#why-breakout-club",
+    "title": "BreakOutClub",
+    "section": "Why Breakout Club?",
+    "text": "Why Breakout Club?\nStudent-led creative or academic-adjacent projects that are:\n\nUseful — build skills, tools, or resources\n\nFun — driven by curiosity, not grades\n\nFlexible — fits around lectures and life\n\n\nStaff act as talent-scouts & door-openers and co-creators (please!), not micro-managers."
+  },
+  {
+    "objectID": "BreakOutClub.html#great-ideas-i-think",
+    "href": "BreakOutClub.html#great-ideas-i-think",
+    "title": "BreakOutClub",
+    "section": "Great Ideas (I think!)",
+    "text": "Great Ideas (I think!)\n\nGoldsmiths Observatory 🔬\nPython toolkit for micro-expression analysis → first-author conference poster in prep.\n\n\nDiscord Server 💬\nA safer, saner online comms channel with wider functionality than WhatSapp; zero midnight WhatsApp meltdowns or misleading rumours.\n\n\nCommunity Profile 📑\nA database I have been keeping for student volunteering and contributions that are often unknown to people writing reference letters. 40 + entries logged; referenced in 12 postgraduate applications.\n\n\nMakers’ Club 🛠️\nArduino-based BioPhys pack and night-vision camera rig for Ghost/Psychomanteum experiment saved £600 in kit costs for a third year project student."
+  },
+  {
+    "objectID": "BreakOutClub.html#idea-buffet",
+    "href": "BreakOutClub.html#idea-buffet",
+    "title": "BreakOutClub",
+    "section": "Idea Buffet",
+    "text": "Idea Buffet\n\n\n\n\n\n\n\nTheme\nSample Seeds\n\n\n\n\nCoding\nAutomated Lecture transcription and note prep · R Shiny’s for quick data calculations or learning statistical concepts\n\n\nContent\nBlog series on “Psych in the wild” · GCSE lesson packs\n\n\nPeer Support\nFlashcard exchange · Peer2Peer “let’s find out” Stats clinic walk-ups · Shut up and Write sessions\n\n\nProject Planning\nTake organisational roles in Science Fair or Y3 Journal/Conference\n\n\n\n\n\n\n\n\n\n  \n    Made with ❤️,\n    \n    +\n    \n    , and questionable 80s movie references\n  \n\n\n  \n    A LittleMonkeyLab Caper · Assembled by Dr Gordon Wright · 2025\n  \n\n  \n    “I’ve seen things you people wouldn’t believe… Bonferroni ignored, assumptions untested, and interaction effects misread… saved version FINALFINALFINAL, lost - like teardrops in the rain”\n  \n\n  \n    ⚠️ Warning: Exposure to this content may result in enhanced agency, temporal disruption, and a mild obsession with experimental design."
+  },
+  {
+    "objectID": "GoldBrains.html",
+    "href": "GoldBrains.html",
+    "title": "GoldBrains",
+    "section": "",
+    "text": "Contains a general introduction to the awards.\nFeatures a Qualtrics QR code for participants.\nRequires building and integrating the Qualtrics survey for feedback or participation.\n\nStudent Choice Awards Voting\n\n\n\n\n\n\n  \n    Made with ❤️,\n    \n    +\n    \n    , and questionable 80s movie references\n  \n\n\n  \n    A LittleMonkeyLab Caper · Assembled by Dr Gordon Wright · 2025\n  \n\n  \n    “I’ve seen things you people wouldn’t believe… Bonferroni ignored, assumptions untested, and interaction effects misread… saved version FINALFINALFINAL, lost - like teardrops in the rain”\n  \n\n  \n    ⚠️ Warning: Exposure to this content may result in enhanced agency, temporal disruption, and a mild obsession with experimental design."
+  },
+  {
+    "objectID": "GoldBrains.html#lets-celebrate-the-year",
+    "href": "GoldBrains.html#lets-celebrate-the-year",
+    "title": "GoldBrains",
+    "section": "",
+    "text": "Contains a general introduction to the awards.\nFeatures a Qualtrics QR code for participants.\nRequires building and integrating the Qualtrics survey for feedback or participation.\n\nStudent Choice Awards Voting\n\n\n\n\n\n\n  \n    Made with ❤️,\n    \n    +\n    \n    , and questionable 80s movie references\n  \n\n\n  \n    A LittleMonkeyLab Caper · Assembled by Dr Gordon Wright · 2025\n  \n\n  \n    “I’ve seen things you people wouldn’t believe… Bonferroni ignored, assumptions untested, and interaction effects misread… saved version FINALFINALFINAL, lost - like teardrops in the rain”\n  \n\n  \n    ⚠️ Warning: Exposure to this content may result in enhanced agency, temporal disruption, and a mild obsession with experimental design."
+  },
+  {
+    "objectID": "Hack2theFuture.html",
+    "href": "Hack2theFuture.html",
+    "title": "Hack2theFuture Ideation Micro‑Hack",
+    "section": "",
+    "text": "Fast‑forward the future of Psychology in one micro‑hack.\n    Your ideas. Your voice. Your future."
+  },
+  {
+    "objectID": "Hack2theFuture.html#overview",
+    "href": "Hack2theFuture.html#overview",
+    "title": "Hack2theFuture Ideation Micro‑Hack",
+    "section": "Overview",
+    "text": "Overview\nToday’s Ideation  Micro‑Hack warms us up for the real-deal which we propose to hold in Induction/Welcome‑Week 2025.\nWe want you to frame a problem or identify a gap/need/opportunity, or alternatively, a solution to a self-evident gap. There are no wrong answers.\nThe objective is to use the power of us to make the future brighter for ourselves, for our community and for those outside the College gates."
+  },
+  {
+    "objectID": "Hack2theFuture.html#hackathon-deliverables",
+    "href": "Hack2theFuture.html#hackathon-deliverables",
+    "title": "Hack2theFuture Ideation Micro‑Hack",
+    "section": "Hackathon Deliverables",
+    "text": "Hackathon Deliverables\nThe hope is to collect ideas and artifacts that can be used to build on for the hackathon. The deliverables are all skeleton only, no specifics are required at this point.\nThe key output is a ‘seed file’ that you can use to build on for the hack.\n\nSeed file – a document with the following sections:\n\nTitle\nProblem Space\nDescription\nHackMaster volunteers\nResources needed\n\nExperts required?\nSkill ups needed?\nResources needed?"
+  },
+  {
+    "objectID": "Hack2theFuture.html#problem-space",
+    "href": "Hack2theFuture.html#problem-space",
+    "title": "Hack2theFuture Ideation Micro‑Hack",
+    "section": "Problem Space",
+    "text": "Problem Space\n\nProblem Space – a problem canvas that you can use to build on for the hackathon. The canvas is a tool to help you identify and articulate the problem you are trying to solve or indeed the solution you envisage. It is a visual representation of the problem space, including the people affected, root causes, and success indicators."
+  },
+  {
+    "objectID": "Hack2theFuture.html#ideas-buffet-for-inspiration",
+    "href": "Hack2theFuture.html#ideas-buffet-for-inspiration",
+    "title": "Hack2theFuture Ideation Micro‑Hack",
+    "section": "Ideas Buffet for Inspiration",
+    "text": "Ideas Buffet for Inspiration\n\n\n\nLens\nSerious\nFun\n\n\n\n\nLocal Community\nCut CBT waiting list via peer‑support app.\nDog‑walking buddy scheme.\n\n\nDepartment\nOpen‑Science badging for coursework.\n\"Psycho Bake‑Off\" stats cakes.\n\n\nSchools\nYear 10 sleep–grades experiment kit.\nBrain Escape‑Room van.\n\n\nPersonal Future\nStrength‑to‑career decision matrix.\nChronotype‑sync flatmate matcher.\n\n\nResearch\nAutomated p‑curve checker.\nOptical‑illusion crowd‑ranker."
+  },
+  {
+    "objectID": "Hack2theFuture.html#what-does-success-look-like",
+    "href": "Hack2theFuture.html#what-does-success-look-like",
+    "title": "Hack2theFuture Ideation Micro‑Hack",
+    "section": "What Does Success Look Like?",
+    "text": "What Does Success Look Like?\nThe overarching goal of the October Hackathon is to create a community of students who are engaged in the process of creating a better future for themselves and for the department. Staff have lots of ideas, but we want to hear from you about what you think is needed.\nStaff will be involved in the Hackathon, but we want you to take the lead. We also want you to be able to help the newly arrived first year students get involved in the Hackathon too, exploiting their energy, skills and fresh perspectives.\nThe Hackathon is a chance for you to take ownership of your community and development, and to create something that will benefit you and your peers.\nThe process cannot make wholesale changes to teaching or assessment, but it can help to create a culture of innovation and creativity in the department. It can also help to create a sense of community and belonging among students, which is important for mental health, wellbeing, learning and downright enjoyment. So this is the focus of the Hackathon.\nHow to make the department a better place to study, work and socialise. How to make it a place where you feel you belong and can thrive. How to make it a place where you can learn and grow, and where you can be yourself. Filling in the space not covered by the timetable."
+  },
+  {
+    "objectID": "Hack2theFuture.html#experts-skillups",
+    "href": "Hack2theFuture.html#experts-skillups",
+    "title": "Hack2theFuture Ideation Micro‑Hack",
+    "section": "Experts & Skill‑Ups",
+    "text": "Experts & Skill‑Ups\nOne of the key outputs of today is to identify the experts and skill‑ups that you think are needed to make the Hackathon a success. This is a chance for you to think about what you need to learn and who you need to learn from.\nThese can be people from within the department, or from outside. They can be people who are experts in their field, or who have experience of running Hackathons. They can be people who are good at teaching, or who are good at mentoring. Or people with mad skills in a particular area.\nSometimes resources are required to make the Hackathon a success. This could be anything from a room to run the Hackathon in, to equipment or software that you need to use. It could be anything from a projector to a whiteboard, or even just Pizza. Help us work out what we need.\n\nHappy Hacking!"
+  },
+  {
+    "objectID": "Hack2theFuture.html#lets-get-hacking",
+    "href": "Hack2theFuture.html#lets-get-hacking",
+    "title": "Hack2theFuture Ideation Micro‑Hack",
+    "section": "Let’s get hacking!",
+    "text": "Let’s get hacking!\nThere are 5 very flexible ‘future-facing’ Lenses - but do not be constrained by them.\n\n\n\n\n\n\n\nLens\nSpecial emphasis\n\n\n\n\n1. Local Community & Civic Life\nMental‑health equity, public engagement with Psychology or mental/physical health, wellbeing in public spaces.\n\n\n2. Department & University\nDepartmental culture, departmental community, student voice, extracurricular activities, social scene.\n\n\n3. Schools & Aspiring Psychologists\nWidening participation, mentorship pathways, GCSE/A‑level alignment.\n\n\n4. Personal Future (Life & Career)\nSkills development, career values, finance, work–life balance, digital identity, CV and portfolio development.\n\n\n5. Research & the Discipline\nReproducibility, open data norms, interdisciplinary collaboration, AI ethics."
+  },
+  {
+    "objectID": "Hack2theFuture.html#ideas-buffet",
+    "href": "Hack2theFuture.html#ideas-buffet",
+    "title": "Hack2theFuture Ideation Micro‑Hack",
+    "section": "Ideas Buffet",
+    "text": "Ideas Buffet\n\n1 Local Community & Civic Life\n\n\n\n\n\n\n\nFlavour\nexamples\n\n\n\n\nSerious\n“How might we cut the six‑month CBT waiting list in our NHS trust by triaging mild cases to peer‑support apps?”\n\n\nWorthy\n“Can we co‑design a pop‑up ‘wellbeing kiosk’ at the Goldsmiths Gate for the public passsing by or in the Cafe for students from other depts?”\n\n\nFun\n“Design a dog‑walking ‘buddy’ scheme to help combat loneliness or just to get your steps in.”\n\n\nFrivolous\n“Map every coffee shop within a mile of campus and rank them by mood boost in a week‑long N‑of‑1 experiment.”\n\n\n\n\n\n2 Department & University\n\n\n\n\n\n\n\nFlavour\nexamples\n\n\n\n\nSerious\n“Mentor incoming first years in Welcome Week.”\n\n\nWorthy\n“Launch an Open‑Science ‘badging’ system for coursework to normalise Open Science practices in the department.”\n\n\nFun\n“Develop a set of videos for first year students ‘Psycho‑Bake Off’ where cakes visualise statistical concepts.”\n\n\nFrivolous\n“Create an app that uses facial recognition to take attendance - and see if anyone falls asleep!).”\n\n\n\n\n\n3 Schools & Aspiring Psychologists\n\n\n\n\n\n\n\nFlavour\nexamples\n\n\n\n\nSerious\n“Develop a compact lesson plan that gets Year 10 pupils running a mini‑experiment on sleep and grades.”\n\n\nWorthy\n“Mentor programme: pair undergrads with sixth‑formers from low‑participation postcodes in the local areas.”\n\n\nFun\n“Design a travelling ‘Brain Escape Room’ that we can take to schools and run on OpenDays.”\n\n\nFrivolous\n“TikTok challenge: Run an experiment to test psychological principles by racing to a million views - including behind the scenes story and theory”\n\n\n\n\n\n4 Personal Future (Life & Career)\n\n\n\n\n\n\n\nFlavour\nexamples\n\n\n\n\nSerious\n“Build a decision‑matrix tool that matches my strengths to psychology careers and flags required postgraduate routes.”\n\n\nWorthy\n“Research and develop a micro-course or podcast for students or school kids”\n\n\nFun\n“Start sharing your Psychological insights with a student blog, publication or social media account”\n\n\nFrivolous\n“Hack revision and train yourself to crave revision by pairing flashcards with your favourite snack (Pavlov meets Pringles).”\n\n\n\n\n\n5 Research & the Discipline\n\n\n\n\n\n\n\nFlavour\nPrompt examples\n\n\n\n\nSerious\n“Automate p‑curve analysis for every dissertation to flag questionable research practices.”\n\n\nWorthy\n“Develop a departmental OpenScience badge system for Y2 & 3 Science Fair/Conference”\n\n\nFun\n“Curate a series of classic psychology experiments with modern replications/extenssions.”\n\n\nFrivolous\n“Work out how to find the most annoying sound in the world.”"
+  },
+  {
+    "objectID": "Hack2theFuture.html#upload-any-artifacts-as-files-or-photos",
+    "href": "Hack2theFuture.html#upload-any-artifacts-as-files-or-photos",
+    "title": "Hack2theFuture Ideation Micro‑Hack",
+    "section": "Upload any Artifacts as files or photos",
+    "text": "Upload any Artifacts as files or photos\nUpload artifacts as files or photos\n\n\n\n\n\n\n  \n    Made with ❤️,\n    \n    +\n    \n    , and questionable 80s movie references\n  \n\n\n  \n    A LittleMonkeyLab Caper · Assembled by Dr Gordon Wright · 2025\n  \n\n  \n    “I’ve seen things you people wouldn’t believe… Bonferroni ignored, assumptions untested, and interaction effects misread… saved version FINALFINALFINAL, lost - like teardrops in the rain”\n  \n\n  \n    ⚠️ Warning: Exposure to this content may result in enhanced agency, temporal disruption, and a mild obsession with experimental design."
+  },
+  {
+    "objectID": "reflective_analysis_slides.html#introduction",
+    "href": "reflective_analysis_slides.html#introduction",
+    "title": "Psychology Students’ Reflective Accounts Analysis",
+    "section": "Introduction",
+    "text": "Introduction\n\nAnalysis of psychology students’ reflections on mini-dissertation experiences\nInsights into learning journey, challenges, and personal growth\nData-driven approach to understanding student experiences"
+  },
+  {
+    "objectID": "reflective_analysis_slides.html#data-overview",
+    "href": "reflective_analysis_slides.html#data-overview",
+    "title": "Psychology Students’ Reflective Accounts Analysis",
+    "section": "Data Overview",
+    "text": "Data Overview\n\n\n\nBasic Statistics\n\n\nMetric\nValue\n\n\n\n\nTotal Accounts\n80.00\n\n\nAverage Sentiment\n0.92\n\n\nUnique Themes\n79.00"
+  },
+  {
+    "objectID": "reflective_analysis_slides.html#sentiment-analysis",
+    "href": "reflective_analysis_slides.html#sentiment-analysis",
+    "title": "Psychology Students’ Reflective Accounts Analysis",
+    "section": "Sentiment Analysis",
+    "text": "Sentiment Analysis"
+  },
+  {
+    "objectID": "reflective_analysis_slides.html#theme-analysis",
+    "href": "reflective_analysis_slides.html#theme-analysis",
+    "title": "Psychology Students’ Reflective Accounts Analysis",
+    "section": "Theme Analysis",
+    "text": "Theme Analysis"
+  },
+  {
+    "objectID": "reflective_analysis_slides.html#word-cloud-of-common-terms",
+    "href": "reflective_analysis_slides.html#word-cloud-of-common-terms",
+    "title": "Psychology Students’ Reflective Accounts Analysis",
+    "section": "Word Cloud of Common Terms",
+    "text": "Word Cloud of Common Terms"
+  },
+  {
+    "objectID": "reflective_analysis_slides.html#key-findings",
+    "href": "reflective_analysis_slides.html#key-findings",
+    "title": "Psychology Students’ Reflective Accounts Analysis",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nSentiment Distribution\n\nGenerally positive sentiment\nMost accounts slightly to very positive\nFew negative accounts\n\nCommon Themes\n\nResearch design and methodology\nPersonal growth and learning\nCollaboration and project management\n\nLearning Outcomes\n\nGrowth in research skills\nValue of practical experience\nImproved time management"
+  },
+  {
+    "objectID": "reflective_analysis_slides.html#conclusion",
+    "href": "reflective_analysis_slides.html#conclusion",
+    "title": "Psychology Students’ Reflective Accounts Analysis",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nMini-dissertation experience is challenging yet rewarding\nStudents demonstrate significant learning and growth\nPositive sentiment indicates valuable experience\nStrong focus on research skills and personal development"
+  },
+  {
+    "objectID": "reflective_analysis_slides.html#thank-you",
+    "href": "reflective_analysis_slides.html#thank-you",
+    "title": "Psychology Students’ Reflective Accounts Analysis",
+    "section": "Thank You!",
+    "text": "Thank You!\nQuestions?"
   }
 ]
