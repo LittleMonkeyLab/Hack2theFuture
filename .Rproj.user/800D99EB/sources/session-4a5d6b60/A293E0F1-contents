@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+
 publish:
   output-dir: docs
   branch: gh-pages
@@ -9,44 +10,50 @@ publish:
   message: "Update website"
   remote: origin
   overwrite: true
-  
 
 website:
   title: "Hack2theFuture"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-  sidebar:
-    style: floating
-    contents:
-      - href: index.qmd
-        text: Introduction
-      - section: Awards
-        contents:
-          - href: GoldBrains.qmd
-            text: Awards
-          - href: GoldBrains_slides.qmd
-            text: Awards Slides
-      - section: Hack
-        contents:   
-          - href: Hack2theFuture.qmd
-            text: Hack2theFuture
-          - href: Hack2theFuture_slides.qmd
-            text: Hack2theFuture Slides
-      - section: BreakOutClub
-        contents:
-          - href: BreakOutClub.qmd
-            text: BreakOut Club
-          - href: BreakOutClub_slides.qmd
-            text: BreakOut Club Slides
-      - section: Terminator
-        contents:
-          - href: ArnieSays.qmd
-            text: ArnieSays
-          - href: ArnieSays_slides.qmd
-            text: ArnieSays Slides
+      # Top‑level landing page
+      - text: Introduction
+        href: index.qmd
+
+      # A — Awards
+      - text: Awards
+        menu:
+          - text: Awards
+            href: GoldBrains.qmd
+          - text: Awards Slides
+            href: GoldBrains_slides.qmd
+            target: _blank
+
+      # B — BreakOutClub
+      - text: BreakOut Club
+        menu:
+          - text: BreakOut Club
+            href: BreakOutClub.qmd
+          - text: BreakOut Club Slides
+            href: BreakOutClub_slides.qmd
+            target: _blank
+
+      # H — Hack
+      - text: Hack
+        menu:
+          - text: Hack2theFuture
+            href: Hack2theFuture.qmd
+          - text: Hack2theFuture Slides
+            href: Hack2theFuture_slides.qmd
+            target: _blank
+
+      # T — Terminator
+      - text: Terminator
+        menu:
+          - text: ArnieSays
+            href: ArnieSays.qmd
+          - text: ArnieSays Slides
+            href: ArnieSays_slides.qmd
+            target: _blank
 
 format:
   html:

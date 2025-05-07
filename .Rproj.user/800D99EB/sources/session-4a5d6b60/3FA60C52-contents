@@ -1,0 +1,21 @@
+---
+title: "ArnieSays_slides"
+format: 
+  revealjs: 
+    theme: [default, custom.scss]
+    footer: "Made with ❤️ and questionable 80s movie references · Dr Gordon Wright · 2025"
+    title-slide-attributes: 
+      data-background-image: images/ArniSays.png
+      data-background-size: cover
+      data-background-opacity: "0.50"
+---
+
+# What do you want to know?
+
+Submit questions via WooClap, or shout out! \
+\
+![](images/WooClap-Panel.png)
+
+<https://app.wooclap.com/events/OZRLIY/votes>
+
+[https://app.wooclap.com/OZRLIY](https://app.wooclap.com/OZRLIY?from=event-page)

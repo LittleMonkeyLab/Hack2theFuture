@@ -1,0 +1,10 @@
+---
+title: "seats"
+format: html
+---
+
+Today's Seats Code
+
+Sign in ONLY ONCE today - this covers 10am - 4pm
+
+![](images/SEATS HACK.png)
