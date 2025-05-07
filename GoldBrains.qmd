@@ -5,4 +5,4 @@ format:
     theme: cerulean
 ---
 
-Who has the shiniest brain?
+Who has the shiniest brain today?

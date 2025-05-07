@@ -19,7 +19,7 @@ website:
         text: Home
       - about.qmd
   sidebar:
-    style: "floating"
+    style: "docked"
     contents:
       - href: index.qmd
         text: Introduction
