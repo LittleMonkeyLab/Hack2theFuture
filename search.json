@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "index 2.html",
+    "href": "index 2.html",
+    "title": "Hack2theFuture",
+    "section": "",
+    "text": "GoldBrains.qmd\n\nHack2theFuture.qmd\n\nBreakOutClub.qmd\n\nArnieSays.qmd"
+  },
+  {
+    "objectID": "ArnieSays 2.html",
+    "href": "ArnieSays 2.html",
+    "title": "ArnieSays",
+    "section": "",
+    "text": "ArnieSays"
+  },
+  {
     "objectID": "Hack2theFuture.html",
     "href": "Hack2theFuture.html",
     "title": "Hack2theFuture",
@@ -12,16 +26,22 @@
     ]
   },
   {
-    "objectID": "GoldBrains.html",
-    "href": "GoldBrains.html",
-    "title": "GoldBrains",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hack2theFuture",
     "section": "",
-    "text": "Who has the shiniest brain?",
+    "text": "GoldBrains.qmd\n\nHack2theFuture.qmd\n\nBreakOutClub.qmd\n\nArnieSays.qmd",
     "crumbs": [
       "Home",
-      "Awards",
-      "Awards"
+      "Introduction"
     ]
+  },
+  {
+    "objectID": "BreakOutClub 2.html",
+    "href": "BreakOutClub 2.html",
+    "title": "BreakOutClub",
+    "section": "",
+    "text": "Time to break out of the club!"
   },
   {
     "objectID": "ArnieSays.html",
@@ -48,19 +68,41 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hack2theFuture",
+    "objectID": "GoldBrains 2.html",
+    "href": "GoldBrains 2.html",
+    "title": "GoldBrains",
     "section": "",
-    "text": "GoldBrains.qmd\n\nHack2theFuture.qmd\n\nBreakOutClub.qmd\n\nArnieSays.qmd",
+    "text": "Who has the shiniest brain?"
+  },
+  {
+    "objectID": "GoldBrains.html",
+    "href": "GoldBrains.html",
+    "title": "GoldBrains",
+    "section": "",
+    "text": "Who has the shiniest brain today?",
     "crumbs": [
       "Home",
-      "Introduction"
+      "Awards",
+      "Awards"
     ]
+  },
+  {
+    "objectID": "Hack2theFuture 2.html",
+    "href": "Hack2theFuture 2.html",
+    "title": "Hack2theFuture",
+    "section": "",
+    "text": "Gotta change the future!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about 2.html",
+    "href": "about 2.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
