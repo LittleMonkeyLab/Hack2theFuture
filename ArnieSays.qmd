@@ -1,6 +1,0 @@
----
-title: "ArnieSays"
-format: html
----
-
-ArnieSays

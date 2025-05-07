@@ -1,6 +1,0 @@
----
-title: "BreakOutClub"
-format: html
----
-
-Time to break out of the club!
