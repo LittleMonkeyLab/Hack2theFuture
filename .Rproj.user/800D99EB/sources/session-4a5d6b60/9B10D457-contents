@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: docs
+publish:
+  output-dir: docs
+  branch: gh-pages
+  commit: true
+  push: true
+  message: "Update website"
+  remote: origin
+  overwrite: true
+  
+
+website:
+  title: "Hack2theFuture"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+  sidebar:
+    style: "floating"
+    contents:
+      - href: index.qmd
+        text: Introduction
+      - section: Awards
+        contents:
+          - href: GoldBrains.qmd
+            text: Awards
+          - href: GoldBrains_slides.qmd
+            text: Awards Slides
+      - section: Hack
+        contents:   
+          - href: Hack2theFuture.qmd
+            text: Hack2theFuture
+          - href: Hack2theFuture_slides.qmd
+            text: Hack2theFuture Slides
+      - section: BreakOutClub
+        contents:
+          - href: BreakOutClub.qmd
+            text: BreakOut Club
+          - href: BreakOutClub_slides.qmd
+            text: BreakOut Club Slides
+      - section: Terminator
+        contents:
+          - href: ArnieSays.qmd
+            text: ArnieSays
+          - href: ArnieSays_slides.qmd
+            text: ArnieSays Slides
+
+format:
+  html:
+    theme:
+      - superhero
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
