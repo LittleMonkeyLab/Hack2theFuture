@@ -3,7 +3,7 @@
     "path": "~/Library/Mobile Documents/com~apple~CloudDocs/_GSRM/Hack2theFuture/BreakOutClub.qmd",
     "project_path": "BreakOutClub.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "179754701",
     "contents": "",
     "dirty": false,
     "created": 1746611357989.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "2:0",
+        "rmdVisualModeLocation": "28:1",
         "cursorPosition": "0,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1746612500,
+    "lastKnownWriteTime": 1746612872,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1746612500,
+    "last_content_update": 1746612872776,
     "read_only": false,
     "read_only_alternatives": []
 }

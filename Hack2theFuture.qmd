@@ -1,8 +1,6 @@
 ---
 title: "Hack2theFuture"
-format:
-  html:
-    theme: cosmo 
+format: html
 ---
 
 Gotta change the future!

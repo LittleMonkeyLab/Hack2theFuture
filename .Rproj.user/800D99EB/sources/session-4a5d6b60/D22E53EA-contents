@@ -1,8 +1,6 @@
 ---
 title: "GoldBrains"
-format: 
-  html:
-    theme: cerulean
+format: html
 ---
 
 Who has the shiniest brain today?

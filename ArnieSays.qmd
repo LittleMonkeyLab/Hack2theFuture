@@ -1,8 +1,6 @@
 ---
 title: "ArnieSays"
-format: 
-  html:
-    theme: journal
+format: html
 ---
 
 ArnieSays

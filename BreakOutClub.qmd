@@ -1,8 +1,6 @@
 ---
 title: "BreakOutClub"
-format: 
-  html:
-    theme: flatly
+format: html
 ---
 
 Time to break out of the club!
