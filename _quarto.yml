@@ -29,9 +29,6 @@ website:
         menu:
           - text: Awards
             href: GoldBrains.qmd
-          - text: Awards Slides
-            href: GoldBrains_slides.qmd
-            target: _blank
 
       # B — BreakOutClub
       - text: BreakOut Club

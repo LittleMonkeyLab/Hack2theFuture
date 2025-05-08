@@ -22,16 +22,6 @@ format:
 </div>
 ```
 
-```{=html}
-<div style="position: relative; padding-top: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="Hack2theFuture_slides.html" 
-          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"
-          allowfullscreen
-          loading="lazy">
-  </iframe>
-</div>
-```
-
 ## Overview
 
 Today’s **Ideation  Micro‑Hack** warms us up for the real-deal which we propose to hold in Induction/Welcome‑Week 2025.
@@ -44,7 +34,7 @@ The objective is to use the power of us to make the future brighter for ourselve
 
 ## Hackathon Deliverables
 
-The hope is to collect ideas and artifacts that can be used to build on for the hackathon. The deliverables are all skeleton only, no specifics are required at this point. 
+The hope is to collect ideas and artifacts that can be used to build on for the hackathon. The deliverables are all skeleton only, no specifics are required at this point.
 
 The key output is a 'seed file' that you can use to build on for the hack.
 
@@ -55,15 +45,18 @@ The key output is a 'seed file' that you can use to build on for the hack.
     -   HackMaster volunteers
     -   Resources needed
         -   Experts required?
+
         -   Skill ups needed?
-        -   Resources needed?
-------------------------------------------------------------------------
+
+        -   
+
+            ## Resources needed?
 
 ## Problem Space
 
--   **Problem Space** – a problem canvas that you can use to build on for the hackathon. The canvas is a tool to help you identify and articulate the problem you are trying to solve or indeed the solution you envisage. It is a visual representation of the problem space, including the people affected, root causes, and success indicators.
-------------------------------------------------------------------------
+-   
 
+    ## **Problem Space** – a problem canvas that you can use to build on for the hackathon. The canvas is a tool to help you identify and articulate the problem you are trying to solve or indeed the solution you envisage. It is a visual representation of the problem space, including the people affected, root causes, and success indicators.
 
 ------------------------------------------------------------------------
 
@@ -110,10 +103,9 @@ Sometimes resources are required to make the Hackathon a success. This could be 
 
 Happy Hacking!
 
-
 ## Let's get hacking!
 
-There are 5 very flexible 'future-facing' Lenses - but do not be constrained by them. 
+There are 5 very flexible 'future-facing' Lenses - but do not be constrained by them.
 
 | **Lens** | **Special emphasis** |
 |------------------------------------|------------------------------------|

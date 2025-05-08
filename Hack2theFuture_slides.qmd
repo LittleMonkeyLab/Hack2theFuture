@@ -17,8 +17,6 @@ format:
 -   Usually lasts from a day to a weekend
 -   Focused on creativity, collaboration, and rapid prototyping
 
-
-
 ## Hackathons: Not Just About Code
 
 -   Hackathons can focus on more than just programming
@@ -29,16 +27,12 @@ format:
     -   Developing outreach or educational activities
 -   The goal: creative problem-solving, whatever the medium!
 
-
-
 ## Why Participate in a Hackathon?
 
 -   Learn new skills and technologies
 -   Work in teams and meet new people
 -   Build something from scratch
 -   Compete for prizes and recognition
-
-
 
 ## Typical Hackathon Structure
 
@@ -51,8 +45,6 @@ format:
 7.  **Demos & Judging**
 8.  **Awards & Closing**
 
-
-
 ## Tips for Success
 
 -   Communicate clearly with your team
@@ -61,15 +53,11 @@ format:
 -   Focus on a working demo
 -   Have fun and experiment!
 
-
-
 ## Famous Hackathon Projects
 
 -   **GroupMe** (created at a hackathon, later acquired by Microsoft)
 -   **EasyTaxi** (won a hackathon, now a global service)
 -   **Pebble Watch** (prototype built at a hackathon)
-
-
 
 ## Ready to Micro-Hack?
 
@@ -81,7 +69,6 @@ format:
 
 ### “Frame first, build later”
 
-
 ### Rules of Play
 
 1.  **No code or logistics today** – only ideas & questions\
@@ -91,12 +78,11 @@ format:
 
 ## Rough Timeline
 
-| Block      | Activity                                     |
-|------------|----------------------------------------------|
-| 11-12      | Form Teams · Brainstorm Lens · Ideas         |
-| **Lunch**  | Allow insight to strike and pennies to drop! |
-| 1-2        | Stand‑ups · Mapping · Metrics · Pitches?      |
-
+| Block     | Activity                                     |
+|-----------|----------------------------------------------|
+| 11-12     | Form Teams · Brainstorm Lens · Ideas         |
+| **Lunch** | Allow insight to strike and pennies to drop! |
+| 1-2       | Stand‑ups · Mapping · Metrics · Pitches?     |
 
 ## Photograph any documents
 
@@ -110,17 +96,14 @@ These are 'Seed Documents' for the future Hackathon
 2.  **60 s per box** – 8 ideas\
 3.  Go for quantity, not polish
 
-
 ## Affinity Wall 🔖
 
 *Group similar ideas, name the cluster.*
-
 
 ## Dot‑Vote & Headline
 
 *3 dots each* → shortlist top 5\
 Write a **How‑Might‑We** headline for each.
-
 
 ## Success Metrics
 
@@ -129,13 +112,11 @@ Write a **How‑Might‑We** headline for each.
 -   One **quantitative** metric\
 -   Friday‑night **end‑state sketch**
 
-
 ## 30 Second pitch to Y2 & 3 Students at 2pm?
 
 1.  Problem → Impact\
 2.  First iteration of a solution\
 3.  Requirements to achieve (expertise/resources)
-
 
 ## Idea Buffet 🍿
 
@@ -147,7 +128,6 @@ Write a **How‑Might‑We** headline for each.
 | Personal   | 💼 💰 ⏰        |
 | Research   | 🧬 🤖 👀        |
 
-
 ## Materials Check
 
 ✅ Sticky notes\
@@ -156,12 +136,9 @@ Write a **How‑Might‑We** headline for each.
 ✅ Faper\
 ✅ Canvas print‑outs\
 
-
-
 ## Seed‑File = Your Ticket 🎟️
 
 Build it at the full hack in October
-
 
 ## Ready? 60 minutes to lunch – **GO!**
 
