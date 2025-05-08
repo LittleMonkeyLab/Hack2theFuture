@@ -1,0 +1,154 @@
+---
+title: "Psychology Students' Reflective Accounts Analysis"
+format: 
+  revealjs:
+    theme: simple
+    scrollable: true
+    slide-number: true
+    code-fold: true
+    self-contained: true
+execute:
+  warning: false
+  message: false
+---
+
+```{r}
+#| label: setup
+#| include: false
+
+# Load required libraries
+library(tidyverse)
+library(quarto)
+library(knitr)
+library(kableExtra)
+library(plotly)
+library(wordcloud)
+library(tm)
+library(sentimentr)
+
+# Read the data
+summary_data <- read.csv("data/ReflectiveAccounts_R_Summary.csv")
+verbatims <- read.csv("data/ReflectiveAccounts_R_Verbatims.csv")
+```
+
+## Introduction
+
+-   Analysis of psychology students' reflections on mini-dissertation experiences
+-   Insights into learning journey, challenges, and personal growth
+-   Data-driven approach to understanding student experiences
+
+## Data Overview
+
+```{r}
+#| label: data-overview
+#| echo: false
+
+# Calculate basic statistics
+total_accounts <- nrow(summary_data)
+avg_sentiment <- mean(summary_data$avg_sentiment, na.rm = TRUE)
+unique_themes <- length(unique(summary_data$theme))
+
+# Create a summary table
+summary_stats <- data.frame(
+  Metric = c("Total Accounts", "Average Sentiment", "Unique Themes"),
+  Value = c(total_accounts, round(avg_sentiment, 3), unique_themes)
+)
+
+# Display the summary statistics
+kable(summary_stats, 
+      caption = "Basic Statistics",
+      format = "html") %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed"),
+                full_width = FALSE)
+```
+
+## Sentiment Analysis
+
+```{r}
+#| label: sentiment-analysis
+#| echo: false
+
+# Create sentiment distribution plot
+ggplot(summary_data, aes(x = avg_sentiment)) +
+  geom_histogram(bins = 20, fill = "steelblue", alpha = 0.7) +
+  theme_minimal() +
+  labs(
+    title = "Distribution of Sentiment Scores",
+    x = "Average Sentiment Score",
+    y = "Count"
+  )
+```
+
+## Theme Analysis
+
+```{r}
+#| label: theme-analysis
+#| echo: false
+
+# Extract and count themes
+theme_counts <- summary_data %>%
+  separate_rows(theme, sep = ", ") %>%
+  count(theme, sort = TRUE) %>%
+  head(10)
+
+# Create theme bar plot
+ggplot(theme_counts, aes(x = reorder(theme, n), y = n)) +
+  geom_bar(stat = "identity", fill = "steelblue", alpha = 0.7) +
+  coord_flip() +
+  theme_minimal() +
+  labs(
+    title = "Top 10 Most Common Themes",
+    x = "Theme",
+    y = "Count"
+  )
+```
+
+## Word Cloud of Common Terms
+
+```{r}
+#| label: wordcloud
+#| echo: false
+
+# Create corpus from sample comments
+text_corpus <- Corpus(VectorSource(summary_data$sample_comments))
+
+# Clean the text
+text_corpus <- tm_map(text_corpus, content_transformer(tolower))
+text_corpus <- tm_map(text_corpus, removePunctuation)
+text_corpus <- tm_map(text_corpus, removeWords, stopwords("english"))
+text_corpus <- tm_map(text_corpus, stripWhitespace)
+
+# Create word cloud
+wordcloud(
+  text_corpus,
+  max.words = 100,
+  random.order = FALSE,
+  colors = brewer.pal(8, "Dark2")
+)
+```
+
+## Key Findings
+
+1.  **Sentiment Distribution**
+    -   Generally positive sentiment
+    -   Most accounts slightly to very positive
+    -   Few negative accounts
+2.  **Common Themes**
+    -   Research design and methodology
+    -   Personal growth and learning
+    -   Collaboration and project management
+3.  **Learning Outcomes**
+    -   Growth in research skills
+    -   Value of practical experience
+    -   Improved time management
+
+## Conclusion
+
+-   Mini-dissertation experience is challenging yet rewarding
+-   Students demonstrate significant learning and growth
+-   Positive sentiment indicates valuable experience
+-   Strong focus on research skills and personal development
+
+## Thank You!
+
+Questions?

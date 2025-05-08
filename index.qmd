@@ -1,0 +1,138 @@
+---
+title: "Hack2theFuture"
+format: 
+  html: 
+    theme: superhero
+    footer: "Made with ❤️ and questionable 80's movie references · Dr Gordon Wright · 2025"
+---
+
+# Welcome to **Hack2theFuture** 🚀
+
+A day of ideas, innovation, and irreverence — brought to you by *you*.
+
+This isn't just another workshop — it's a space to **co-create** tools, challenges, and hacks that make psychology more powerful, more practical, and way more fun.
+
+------------------------------------------------------------------------
+
+## 🔍 Explore the Zones
+
+::: zone-card
+![GoldBrains](images/StudentVoiceAwards.png){.zone-img}
+
+### 🧠 GoldBrains
+
+[**Visit GoldBrains** →](GoldBrains.qmd)\
+Celebrate the best of the staff and college — the *serious* and the *slightly weird* student-voted awards. And suggest categories for student awards, maybe? If you want...
+:::
+
+::: zone-card
+![Weird Science Hack](images/WeirdScienceHack.png){.zone-img}
+
+### 🧪 Weird Science Hack
+
+[**See what's in store** →](Hack2theFuture.qmd)\
+Take control of your future in the department — ideas to make studying, socialising and researching weirder and more wonderful.
+:::
+
+::: zone-card
+![Breakout Club](images/BreakoutClub.png){.zone-img}
+
+### 💥 BreakOut Club
+
+[**Join the BreakOut** →](BreakOutClub.qmd)\
+It used to be the Breakfast Club - until we agreed we don't like mornings. See previous examples of student-led efforts to unlock their Psychology degree with skills, puzzles, publications, portfolios and pliers.
+:::
+
+::: zone-card
+![Arnie Says](images/ArniSays.png){.zone-img}
+
+### 🤖 Arnie Says
+
+[**I am a cybernetic Psychologist, living tissue over metal endoskeleton** →](ArnieSays.qmd)\
+We have teleported students from Year 2 and Year 3 to share their wisdom, hacks and tales of cunning. They will beam back insights to help you terminate the journey ahead. And you can ask them anything via WooClap here https://app.wooclap.com/OZRLIY?from=instruction-slide event code OZRLIY at wooclap.com
+:::
+
+------------------------------------------------------------------------
+
+```{=html}
+<!-- Special Guest Speaker Section -->
+<section class="my-5 px-4 py-5 rounded text-light" style="background: linear-gradient(135deg, #1a1a1a, #2c2c2c); border-left: 5px solid #cc0000; box-shadow: 0 0 12px rgba(255,0,0,0.2);">
+
+  <div class="d-flex flex-wrap align-items-center justify-content-between gap-4">
+    
+    <!-- Text Content -->
+    <div style="flex: 1 1 360px;">
+      <h2 class="display-5 fw-bold mb-3" style="color: #ff4444;">🧙‍♂️ Special Guest: Professor of Weird Shit</h2>
+      <h3 class="mb-3" style="color: #ffffff;">Chris French — <em>The Science of Weird Shit</em></h3>
+
+      <p class="lead" style="color: #dddddd;">
+        Ghostly encounters, alien abduction, reincarnation, talking to the dead, UFO sightings, inexplicable coincidences, out-of-body and near-death experiences...
+      </p>
+
+      <p style="color: #cccccc;">
+        Are these legitimate phenomena? If not, how should we understand them? In this accessible and gratifying session, 
+        <strong>Chris French</strong> takes us on a tour of the paranormal — not to confirm it, but to understand why our minds so often generate it. 
+        Drawing from decades of research in anomalistic psychology, he’ll walk us through scientific, statistical, and psychological explanations behind some of the most bizarre and persistent beliefs humans hold.
+      </p>
+
+      <p style="color: #bbbbbb;">
+        Expect light-bulb moments, compelling science, and a few uncomfortable truths. This is not just a talk about ghosts and aliens — 
+        it’s a masterclass in <strong>critical thinking, cognitive biases</strong>, and the psychology of belief.
+      </p>
+
+      <p style="color: #999999;" class="fst-italic">
+        Spoiler alert: it’s not about debunking — it’s about understanding ourselves.
+      </p>
+    </div>
+
+    <!-- Book Image -->
+    <div style="flex: 0 0 220px; text-align: center;">
+      <img src="images/weirdshitbook.jpg" alt="The Science of Weird Shit book cover" style="max-width: 100%; border-radius: 10px; box-shadow: 0 0 10px rgba(255,0,0,0.3);">
+    </div>
+
+  </div>
+</section>
+```
+
+## 🗳️ Cast Your Votes, Share Your Thoughts
+
+Each zone has a place for feedback and voting. Winners get glory, prizes, and *questionable fame*.
+
+------------------------------------------------------------------------
+
+## 🧰 Want to Make Your Website like this?
+
+It's all just R and Quarto. Follow the Github Icon in the top right and see the code.
+
+------------------------------------------------------------------------
+
+```{=html}
+<hr style="margin-top: 4rem; border-color: #cc0000;"/>
+
+<footer class="text-center px-3 py-4" style="font-family: 'Atkinson Hyperlegible', monospace; background: linear-gradient(to right, #1a1a1a, #000000); color: #cccccc; border-top: 2px solid #ff4444; box-shadow: 0 -4px 10px rgba(255, 0, 0, 0.2);">
+
+<p style="font-size: 1.1rem; margin-bottom: 0.5rem;">
+  <strong>
+    Made with ❤️,
+    <img src="images/quarto-logo.png" alt="Quarto" style="height: 1.2em; vertical-align: text-bottom;">
+    +
+    <img src="images/Rlogo.png" alt="R" style="height: 1.2em; vertical-align: text-bottom;">
+    , and questionable 80s movie references
+  </strong>
+</p>
+
+  <p style="font-size: 0.95rem;">
+    A <span style="color: #ff4444;">LittleMonkeyLab</span> Caper · Assembled by <em>Dr Gordon Wright</em> · 2025 · 
+    <a href="https://github.com/LittleMonkeyLab/Hack2theFuture" target="_blank" style="color: #ffaaaa; text-decoration: underline;">View source</a> 
+  </p>
+
+  <p style="font-size: 0.95rem; font-style: italic; color: #999;">
+    “I’ve seen things you people wouldn’t believe… Bonferroni ignored, assumptions untested, and interaction effects misread… saved version FINALFINALFINAL, lost - like teardrops in the rain”
+  </p>
+
+  <p style="margin-top: 1rem; font-size: 0.85rem; color: #666;">
+    ⚠️ Warning: Exposure to this content may result in temporal disruption,vibe-coding and a mild obsession with Kenny Loggins.
+  </p>
+
+</footer>
+```

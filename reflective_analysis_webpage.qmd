@@ -1,0 +1,179 @@
+---
+title: "Analysis of Psychology Students' Reflective Accounts"
+format: 
+  html:
+    theme: journal
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    self-contained: true
+execute:
+  warning: false
+  message: false
+---
+
+```{r}
+#| label: setup
+#| include: false
+
+# Load required libraries
+library(tidyverse)
+library(quarto)
+library(knitr)
+library(kableExtra)
+library(DT)
+library(plotly)
+library(wordcloud)
+library(tm)
+library(sentimentr)
+
+# Read the data
+summary_data <- read.csv("data/ReflectiveAccounts_R_Summary.csv")
+verbatims <- read.csv("data/ReflectiveAccounts_R_Verbatims.csv")
+```
+
+# Introduction
+
+This analysis explores psychology students' reflections on their mini-dissertation experiences, providing insights into their learning journey, challenges faced, and personal growth.
+
+All 80 reflective accounts can be downloaded below for your own perusal. Just be aware that their Mini-Dissertations were of a different format to the ones you will be doing! 
+
+<a href="data/ReflectiveAccounts_R_Summary.csv" download style="padding: 0.6em 1em; background-color: #2583c6; color: white; border-radius: 6px; text-decoration: none;">
+  Download CSV
+</a>
+
+
+
+## Data Overview
+
+```{r}
+#| label: data-overview
+#| echo: false
+
+# Calculate basic statistics
+total_accounts <- nrow(summary_data)
+avg_sentiment <- mean(summary_data$avg_sentiment, na.rm = TRUE)
+unique_themes <- length(unique(summary_data$theme))
+
+# Create a summary table
+summary_stats <- data.frame(
+  Metric = c("Total Accounts", "Average Sentiment", "Unique Themes"),
+  Value = c(total_accounts, round(avg_sentiment, 3), unique_themes)
+)
+
+# Display the summary statistics
+kable(summary_stats, 
+      caption = "Basic Statistics",
+      format = "html") %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed"),
+                full_width = FALSE)
+```
+
+## Sentiment Analysis
+
+```{r}
+#| label: sentiment-analysis
+#| echo: false
+
+# Create sentiment distribution plot
+ggplot(summary_data, aes(x = avg_sentiment)) +
+  geom_histogram(bins = 20, fill = "steelblue", alpha = 0.7) +
+  theme_minimal() +
+  labs(
+    title = "Distribution of Sentiment Scores",
+    x = "Average Sentiment Score",
+    y = "Count"
+  )
+```
+
+## Theme Analysis
+
+```{r}
+#| label: theme-analysis
+#| echo: false
+
+# Extract and count themes
+theme_counts <- summary_data %>%
+  separate_rows(theme, sep = ", ") %>%
+  count(theme, sort = TRUE) %>%
+  head(10)
+
+# Create theme bar plot
+ggplot(theme_counts, aes(x = reorder(theme, n), y = n)) +
+  geom_bar(stat = "identity", fill = "steelblue", alpha = 0.7) +
+  coord_flip() +
+  theme_minimal() +
+  labs(
+    title = "Top 10 Most Common Themes",
+    x = "Theme",
+    y = "Count"
+  )
+```
+
+## Word Cloud of Common Terms
+
+```{r}
+#| label: wordcloud
+#| echo: false
+
+# Create corpus from sample comments
+text_corpus <- Corpus(VectorSource(summary_data$sample_comments))
+
+# Clean the text
+text_corpus <- tm_map(text_corpus, content_transformer(tolower))
+text_corpus <- tm_map(text_corpus, removePunctuation)
+text_corpus <- tm_map(text_corpus, removeWords, stopwords("english"))
+text_corpus <- tm_map(text_corpus, stripWhitespace)
+
+# Create word cloud
+wordcloud(
+  text_corpus,
+  max.words = 100,
+  random.order = FALSE,
+  colors = brewer.pal(8, "Dark2")
+)
+```
+
+## Interactive Data Explorer
+
+```{r}
+#| label: data-explorer
+#| echo: false
+
+# Create interactive data table
+datatable(
+  summary_data,
+  options = list(
+    pageLength = 10,
+    dom = 'Bfrtip',
+    buttons = c('copy', 'csv', 'excel'),
+    scrollX = TRUE
+  )
+)
+```
+
+## Key Findings
+
+1.  **Sentiment Distribution**
+    -   The reflective accounts show a generally positive sentiment - but these were part of an assessment :-)
+    -   Most accounts fall within the slightly positive to very positive range
+    -   Few accounts show negative sentiment - unless you look very closely!
+2.  **Common Themes**
+    -   Research design and methodology are the most frequently discussed topics
+    -   Personal growth and learning are prominent themes
+    -   Collaboration and project management are also significant areas of reflection
+3.  **Learning Outcomes**
+    -   Students report significant growth in research skills
+    -   Many highlight the value of practical research experience
+    -   Several mention improved time management and project planning abilities
+    -   Teamwork (or lack thereof) are commonly hinted at
+
+## Conclusion
+
+The analysis of psychology students' reflective accounts reveals that the mini-dissertation experience is both challenging and rewarding. Students demonstrate significant learning and growth, particularly in research skills and personal development. The generally positive sentiment suggests that, despite the challenges, students find the experience valuable for their academic and professional development.
+
+```{r}
+#| label: session-info
+#| echo: false
+sessionInfo()
+```

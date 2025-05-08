@@ -1,0 +1,102 @@
+---
+title: "Welcome & Overview"
+format:
+  revealjs:
+    theme: dark
+    slide-number: true
+    incremental: true
+    footer: "Made with ❤️ and a flux capacitor · Dr Gordon Wright · 2025"
+---
+
+```{=html}
+<!-- HERO -->
+<section class="text-center" data-background-gradient="radial-gradient(circle at center, #1a1a1a 0%, #000000 80%)">
+  <h1 class="display-2 fw-bold" style="color:#fff;text-shadow:0 0 12px #ff4444;">Welcome to<br>Hack2 the Future Day</h1>
+  <p class="lead fst-italic" style="color:#ffcccc;">“Come with me if you want to learn.”</p>
+</section>
+```
+
+## Today’s Special Guest ⭐
+
+::::: columns
+::: {.column width="60%"}
+### 🧙‍♂️ Prof Chris French
+
+***The Science of Weird Sh\*t***
+
+Ghosts • UFOs • ESP • near-death visions—\
+why do smart brains believe strange things?
+
+Learn how **cognitive bias** and **critical thinking** explain the paranormal.
+
+**15 : 00 in LG01 (here) — don’t miss it!**
+:::
+
+::: {.column width="40%"}
+![](images/weirdshitbook.jpg){width="220px" style="border-radius:8px;box-shadow:0 0 10px rgba(255,0,0,.4);"}
+:::
+:::::
+
+## What This *Was* Supposed to Be 🗓️
+
+-   A series of dovetailed showcase events for all year groups to present their work
+-   A chance to share ideas, get feedback, and build community
+-   A celebration of the year’s work, with awards for the best projects at all levels
+-   But we forgot about the exams, and the deadlines, and how unlikely it is that anyone would want to present their work instead of revising!
+
+*(Yes, the plan mutated more times than an ANOVA assumption.)*
+
+## What This *Will* Become
+
+| Year | Flagship Event |
+|---------------------|---------------------------------------------------|
+| **Y2** | **Science Fair – “Living Abstracts”**<br>poster + demo + data dive |
+| **Y3** | **Undergrad Journal & Conference**<br>peer-reviewed & published! |
+| **MSc** | Showcase during PGT Research Festival |
+| *(Apology tour)* | Many Y2, Y3 & MSc students are in exams today—catch them next round! |
+
+## Running Order for the Day
+
+| Time  | Block                                  |
+|-------|----------------------------------------|
+| 10:00 | Welcome & Overview                     |
+| 11:00 | **Micro-Hack begins**                  |
+| 12:00 | Lunch                                  |
+| 13:00 | Hack sprint continues                  |
+| 14:00 | **Time-Travel Student Panel**          |
+| 15:00 | **Chris French: Intro to Weird Sh\*t** |
+
+## Should We Do Awards? 🏆
+
+> “Recognition that actually matters—what does it look like?”
+
+-   Micro-credentials?\
+-   Digital badges?\
+-   Best “Open Science Spirit”?
+
+**Ideas to be collected in the Qualtrics Survey**
+
+## Micro-Hack — *Hack2 the Future* ⚙️
+
+-   **Goal:** bridge *Opportunity ➜ Solution* canvas\
+-   Generate ideas and collect 'problems/opportunities'
+-   Use the **Seed Document** to capture work\
+-   Top ideas roll into the full hackathon in October
+
+## Pre-Hack - Breakout Club & Student Reflections ⚡
+
+-   Rapid overviews of past 'mini-projects'extra-curriculars\
+-   Honest reflection snippets from Y2 dissertations\
+-   Inspiration buffet for your own future side-quests
+
+## 88mph Student Panel  ![](images/88.jpeg){width="100"}
+
+-   Ask *“future you”* anything: exams, projects, careers\
+-   Float Hack ideas for instant peer review\
+-   Post anonymously via WooClap; up-vote what you like
+
+> *Highest-voted Qs answered live - All Q's sent out for answers after exams!*
+
+## Finish off with Weird Shit! 💩
+
+### Ready? Allons-y!

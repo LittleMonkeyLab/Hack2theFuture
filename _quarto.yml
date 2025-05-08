@@ -1,0 +1,89 @@
+project:
+  type: website
+  output-dir: docs
+
+publish:
+  output-dir: docs
+  branch: gh-pages
+  commit: true
+  push: true
+  message: "Update website"
+  remote: origin
+  overwrite: true
+
+website:
+  title: "Hack2theFuture"
+    
+  navbar:
+    logo-href: seats.qmd
+    left:
+      # Top‑level landing page
+      - text: Introduction
+        href: index.qmd
+      - text: Welcome Slides
+        href: welcome_slides.qmd
+        target: _blank
+            
+      # A — Awards
+      - text: Awards
+        menu:
+          - text: Awards
+            href: GoldBrains.qmd
+          - text: Awards Slides
+            href: GoldBrains_slides.qmd
+            target: _blank
+
+      # B — BreakOutClub
+      - text: BreakOut Club
+        menu:
+          - text: BreakOut Club
+            href: BreakOutClub.qmd
+          - text: BreakOut Club Slides
+            href: BreakOutClub_slides.qmd
+            target: _blank
+
+      # H — Hack
+      - text: Hack
+        menu:
+          - text: Hack2theFuture
+            href: Hack2theFuture.qmd
+          - text: Hack2theFuture Slides
+            href: Hack2theFuture_slides.qmd
+            target: _blank
+
+      # T — Terminator
+      - text: Terminator
+        menu:
+          - text: ArnieSays
+            href: ArnieSays.qmd
+          - text: Reflective Accounts
+            href: reflective_analysis_webpage.qmd
+            target: _blank
+          - text: Reflective Accounts_slides
+            href: reflective_analysis_slides.qmd
+            target: _blank
+          - text: Reflective Accounts_tutorial
+            href: reflective_analysis_tutorial.qmd
+            target: _blank
+          - text: ArnieSays Slides
+            href: ArnieSays_slides.qmd
+            target: _blank
+    right:
+      - icon: github
+        href: https://github.com/LittleMonkeyLab/Hack2theFuture
+        aria-label: GitHub
+      - icon: quarto
+        href: https://quarto.org/
+        aria-label: Quarto
+      - icon: R
+        href: https://www.r-project.org/
+        aria-label: R
+
+format:
+  html:
+    embed-resources: true
+    page-layout: full
+    css: styles.css
+    toc: true
+
+editor: visual

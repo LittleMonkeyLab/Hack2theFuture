@@ -1,0 +1,239 @@
+---
+title: "Tutorial: Analyzing Psychology Students' Reflective Accounts"
+format: 
+  html:
+    theme: journal
+    toc: true
+    toc-depth: 3
+    code-fold: false
+    self-contained: true
+execute:
+  warning: false
+  message: false
+---
+
+# Introduction
+
+This tutorial demonstrates how to analyze psychology students' reflective accounts using R. We'll cover data loading, cleaning, visualization, and analysis techniques.
+
+## Required Packages
+
+```{r}
+#| label: packages
+#| eval: false
+
+# Install required packages if not already installed
+if (!require("tidyverse")) install.packages("tidyverse")
+if (!require("quarto")) install.packages("quarto")
+if (!require("knitr")) install.packages("knitr")
+if (!require("kableExtra")) install.packages("kableExtra")
+if (!require("plotly")) install.packages("plotly")
+if (!require("wordcloud")) install.packages("wordcloud")
+if (!require("tm")) install.packages("tm")
+if (!require("sentimentr")) install.packages("sentimentr")
+```
+
+```{r}
+#| label: load-packages
+#| echo: true
+
+# Load required packages
+library(tidyverse)    # For data manipulation and visualization
+library(quarto)       # For document generation
+library(knitr)        # For table formatting
+library(kableExtra)   # For enhanced table styling
+library(plotly)       # For interactive plots
+library(wordcloud)    # For word cloud generation
+library(tm)           # For text mining
+library(sentimentr)   # For sentiment analysis
+```
+
+## Data Loading and Initial Exploration
+
+```{r}
+#| label: load-data
+#| echo: true
+
+# Read the data files
+summary_data <- read.csv("data/ReflectiveAccounts_R_Summary.csv")
+verbatims <- read.csv("data/ReflectiveAccounts_R_Verbatims.csv")
+
+# Display the structure of the data
+str(summary_data)
+```
+
+## Data Cleaning and Preparation
+
+```{r}
+#| label: data-cleaning
+#| echo: true
+
+# Clean theme data by splitting comma-separated values
+theme_counts <- summary_data %>%
+  separate_rows(theme, sep = ", ") %>%
+  count(theme, sort = TRUE) %>%
+  head(10)
+
+# Display the cleaned theme data
+head(theme_counts)
+```
+
+## Basic Statistics
+
+```{r}
+#| label: basic-stats
+#| echo: true
+
+# Calculate basic statistics
+total_accounts <- nrow(summary_data)
+avg_sentiment <- mean(summary_data$avg_sentiment, na.rm = TRUE)
+unique_themes <- length(unique(summary_data$theme))
+
+# Create a summary table
+summary_stats <- data.frame(
+  Metric = c("Total Accounts", "Average Sentiment", "Unique Themes"),
+  Value = c(total_accounts, round(avg_sentiment, 3), unique_themes)
+)
+
+# Display the summary statistics
+kable(summary_stats, 
+      caption = "Basic Statistics",
+      format = "html") %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed"),
+                full_width = FALSE)
+```
+
+## Data Visualization
+
+### Sentiment Distribution
+
+```{r}
+#| label: sentiment-plot
+#| echo: true
+
+# Create sentiment distribution plot
+ggplot(summary_data, aes(x = avg_sentiment)) +
+  geom_histogram(bins = 20, fill = "steelblue", alpha = 0.7) +
+  theme_minimal() +
+  labs(
+    title = "Distribution of Sentiment Scores",
+    x = "Average Sentiment Score",
+    y = "Count"
+  )
+```
+
+### Theme Analysis
+
+```{r}
+#| label: theme-plot
+#| echo: true
+
+# Create theme bar plot
+ggplot(theme_counts, aes(x = reorder(theme, n), y = n)) +
+  geom_bar(stat = "identity", fill = "steelblue", alpha = 0.7) +
+  coord_flip() +
+  theme_minimal() +
+  labs(
+    title = "Top 10 Most Common Themes",
+    x = "Theme",
+    y = "Count"
+  )
+```
+
+## Text Analysis
+
+### Word Cloud Generation
+
+```{r}
+#| label: wordcloud
+#| echo: true
+
+# Create corpus from sample comments
+text_corpus <- Corpus(VectorSource(summary_data$sample_comments))
+
+# Clean the text
+text_corpus <- tm_map(text_corpus, content_transformer(tolower))
+text_corpus <- tm_map(text_corpus, removePunctuation)
+text_corpus <- tm_map(text_corpus, removeWords, stopwords("english"))
+text_corpus <- tm_map(text_corpus, stripWhitespace)
+
+# Create word cloud
+wordcloud(
+  text_corpus,
+  max.words = 100,
+  random.order = FALSE,
+  colors = brewer.pal(8, "Dark2")
+)
+```
+
+## Advanced Analysis
+
+### Sentiment Analysis by Theme
+
+```{r}
+#| label: theme-sentiment
+#| echo: true
+
+# Calculate average sentiment by theme
+theme_sentiment <- summary_data %>%
+  separate_rows(theme, sep = ", ") %>%
+  group_by(theme) %>%
+  summarise(
+    avg_sentiment = mean(avg_sentiment, na.rm = TRUE),
+    count = n()
+  ) %>%
+  arrange(desc(count)) %>%
+  head(10)
+
+# Create theme sentiment plot
+ggplot(theme_sentiment, aes(x = reorder(theme, avg_sentiment), y = avg_sentiment)) +
+  geom_bar(stat = "identity", fill = "steelblue", alpha = 0.7) +
+  coord_flip() +
+  theme_minimal() +
+  labs(
+    title = "Average Sentiment by Theme",
+    x = "Theme",
+    y = "Average Sentiment Score"
+  )
+```
+
+## Interactive Visualizations
+
+### Interactive Theme Plot
+
+```{r}
+#| label: interactive-theme
+#| echo: true
+
+# Create interactive theme plot
+plot_ly(
+  data = theme_counts,
+  x = ~reorder(theme, n),
+  y = ~n,
+  type = "bar",
+  marker = list(color = "steelblue")
+) %>%
+  layout(
+    title = "Top 10 Most Common Themes",
+    xaxis = list(title = "Theme"),
+    yaxis = list(title = "Count")
+  )
+```
+
+## Conclusion
+
+This tutorial has demonstrated various techniques for analyzing reflective account data, including: - Data loading and cleaning - Basic statistical analysis - Data visualization - Text analysis - Interactive visualizations
+
+The code can be adapted for similar analyses of textual data in other contexts.
+
+## References
+
+-   Wickham, H. (2016). ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York.
+-   Feinerer, I., Hornik, K., & Meyer, D. (2008). Text Mining Infrastructure in R. Journal of Statistical Software, 25(5), 1-54.
+-   Rinker, T. W. (2018). sentimentr: Calculate Text Polarity Sentiment. Buffalo, New York.
+
+```{r}
+#| label: session-info
+#| echo: false
+sessionInfo()
+```

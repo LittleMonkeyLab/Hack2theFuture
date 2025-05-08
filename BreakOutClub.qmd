@@ -1,0 +1,95 @@
+---
+title: "BreakOutClub"
+format: 
+  html: 
+    theme: superhero
+    footer: "Made with ❤️ and questionable 80's movie references · Dr Gordon Wright · 2025"
+---
+
+```{=html}
+<div class="text-center py-5 bg-light rounded">
+  <h1 class="display-4 fw-bold">Breakout Club</h1>
+  <p class="lead">Turn spare ideas into portfolio gold ⭐</p>
+</div>
+```
+
+```{=html}
+<div style="position: relative; padding-top: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="BreakOutClub_slides.html" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"
+          allowfullscreen
+          loading="lazy">
+  </iframe>
+</div>
+```
+
+## Why Breakout Club?
+
+*Student-led creative or academic-adjacent projects* that are:
+
+- **Useful** — build skills, tools, or resources  
+- **Fun** — driven by curiosity, not grades  
+- **Flexible** — fits around lectures and life  
+
+> Staff act as talent-scouts & door-openers and co-creators (please!), not micro-managers.
+
+---
+
+## Great Ideas (I think!)
+
+### Goldsmiths Observatory 🔬
+Python toolkit for micro-expression analysis → first-author conference poster in prep.
+
+### Discord Server 💬
+A safer, saner online comms channel with wider functionality than WhatSapp; zero midnight WhatsApp meltdowns or misleading rumours.
+
+### Community Profile 📑
+A database I have been keeping for student volunteering and contributions that are often unknown to people writing reference letters. 
+40 + entries logged; referenced in 12 postgraduate applications.
+
+### Makers’ Club 🛠️
+Arduino-based BioPhys pack and night-vision camera rig for Ghost/Psychomanteum experiment saved £600 in kit costs for a third year project student.
+
+---
+
+## Idea Buffet
+
+| Theme | Sample Seeds |
+|-------|--------------|
+| **Coding** | Automated Lecture transcription and note prep · R Shiny's for quick data calculations or learning statistical concepts |
+| **Content** | Blog series on “Psych in the wild” · GCSE lesson packs |
+| **Peer Support** | Flashcard exchange · Peer2Peer "let's find out" Stats clinic walk-ups · Shut up and Write sessions|
+| **Project Planning** | Take organisational roles in Science Fair or Y3 Journal/Conference|
+
+---
+
+
+```{=html}
+<hr style="margin-top: 4rem; border-color: #cc0000;"/>
+
+<footer class="text-center px-3 py-4" style="font-family: 'Atkinson Hyperlegible', monospace; background: linear-gradient(to right, #1a1a1a, #000000); color: #cccccc; border-top: 2px solid #ff4444; box-shadow: 0 -4px 10px rgba(255, 0, 0, 0.2);">
+
+<p style="font-size: 1.1rem; margin-bottom: 0.5rem;">
+  <strong>
+    Made with ❤️,
+    <img src="images/quarto-logo.png" alt="Quarto" style="height: 1.2em; vertical-align: text-bottom;">
+    +
+    <img src="images/Rlogo.png" alt="R" style="height: 1.2em; vertical-align: text-bottom;">
+    , and questionable 80s movie references
+  </strong>
+</p>
+
+  <p style="font-size: 0.95rem;">
+    A <span style="color: #ff4444;">LittleMonkeyLab</span> Caper · Assembled by <em>Dr Gordon Wright</em> · 2025
+  </p>
+
+  <p style="font-size: 0.95rem; font-style: italic; color: #999;">
+    “I’ve seen things you people wouldn’t believe… Bonferroni ignored, assumptions untested, and interaction effects misread… saved version FINALFINALFINAL, lost - like teardrops in the rain”
+  </p>
+
+  <p style="margin-top: 1rem; font-size: 0.85rem; color: #666;">
+    ⚠️ Warning: Exposure to this content may result in enhanced agency, temporal disruption, and a mild obsession with experimental design.
+  </p>
+
+</footer>
+```

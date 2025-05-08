@@ -1,0 +1,207 @@
+---
+title: "Hack2theFuture Ideation Micro‑Hack"
+format: 
+  html: 
+    theme: [superhero, styles.css]
+    footer: "Made with ❤️ and questionable 80's movie references · Dr Gordon Wright · 2025"
+---
+
+```{=html}
+<!-- Hero banner -->
+<div class="text-center py-5 rounded" style="background: linear-gradient(135deg, #ffffff, #e3e3e3); border: 1px solid #ddd; box-shadow: 0 0 10px rgba(0,0,0,0.05);">
+
+  <h1 class="display-3 fw-bold" style="color: #cc0000; text-shadow: 1px 1px 6px rgba(204,0,0,0.3); animation: pulseTitle 2s infinite alternate;">
+    Let's Get Hacking!
+  </h1>
+
+  <p class="lead" style="color: #444; font-size: 1.4rem; max-width: 700px; margin: 1rem auto;">
+    Fast‑forward the future of Psychology in one micro‑hack.<br>
+    Your ideas. Your voice. Your future.
+  </p>
+
+</div>
+```
+
+```{=html}
+<div style="position: relative; padding-top: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="Hack2theFuture_slides.html" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"
+          allowfullscreen
+          loading="lazy">
+  </iframe>
+</div>
+```
+
+## Overview
+
+Today’s **Ideation  Micro‑Hack** warms us up for the real-deal which we propose to hold in Induction/Welcome‑Week 2025.
+
+We want you to frame a problem or identify a gap/need/opportunity, or alternatively, a solution to a self-evident gap. There are no wrong answers.
+
+The objective is to use the power of us to make the future brighter for ourselves, for our community and for those outside the College gates.
+
+------------------------------------------------------------------------
+
+## Hackathon Deliverables
+
+The hope is to collect ideas and artifacts that can be used to build on for the hackathon. The deliverables are all skeleton only, no specifics are required at this point. 
+
+The key output is a 'seed file' that you can use to build on for the hack.
+
+-   **Seed file** – a document with the following sections:
+    -   Title
+    -   Problem Space
+    -   Description
+    -   HackMaster volunteers
+    -   Resources needed
+        -   Experts required?
+        -   Skill ups needed?
+        -   Resources needed?
+------------------------------------------------------------------------
+
+## Problem Space
+
+-   **Problem Space** – a problem canvas that you can use to build on for the hackathon. The canvas is a tool to help you identify and articulate the problem you are trying to solve or indeed the solution you envisage. It is a visual representation of the problem space, including the people affected, root causes, and success indicators.
+------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------
+
+## Ideas Buffet for Inspiration
+
+```{=html}
+<table class="table table-hover small">
+<thead><tr><th>Lens</th><th>Serious</th><th>Fun</th></tr></thead>
+<tbody>
+<tr><td>Local Community</td><td>Cut CBT waiting list via peer‑support app.</td><td>Dog‑walking buddy scheme.</td></tr>
+<tr><td>Department</td><td>Open‑Science badging for coursework.</td><td>"Psycho Bake‑Off" stats cakes.</td></tr>
+<tr><td>Schools</td><td>Year 10 sleep–grades experiment kit.</td><td>Brain Escape‑Room van.</td></tr>
+<tr><td>Personal Future</td><td>Strength‑to‑career decision matrix.</td><td>Chronotype‑sync flatmate matcher.</td></tr>
+<tr><td>Research</td><td>Automated p‑curve checker.</td><td>Optical‑illusion crowd‑ranker.</td></tr>
+</tbody>
+</table>
+```
+
+------------------------------------------------------------------------
+
+## What Does Success Look Like?
+
+The overarching goal of the October Hackathon is to create a community of students who are engaged in the process of creating a better future for themselves and for the department. Staff have lots of ideas, but we want to hear from you about what you think is needed.
+
+Staff will be involved in the Hackathon, but we want you to take the lead. We also want you to be able to help the newly arrived first year students get involved in the Hackathon too, exploiting their energy, skills and fresh perspectives.
+
+The Hackathon is a chance for you to take ownership of your community and development, and to create something that will benefit you and your peers.
+
+The process cannot make wholesale changes to teaching or assessment, but it can help to create a culture of innovation and creativity in the department. It can also help to create a sense of community and belonging among students, which is important for mental health, wellbeing, learning and downright enjoyment. So this is the focus of the Hackathon.
+
+How to make the department a better place to study, work and socialise. How to make it a place where you feel you belong and can thrive. How to make it a place where you can learn and grow, and where you can be yourself. Filling in the space not covered by the timetable.
+
+------------------------------------------------------------------------
+
+## Experts & Skill‑Ups
+
+One of the key outputs of today is to identify the experts and skill‑ups that you think are needed to make the Hackathon a success. This is a chance for you to think about what you need to learn and who you need to learn from.
+
+These can be people from within the department, or from outside. They can be people who are experts in their field, or who have experience of running Hackathons. They can be people who are good at teaching, or who are good at mentoring. Or people with mad skills in a particular area.
+
+Sometimes resources are required to make the Hackathon a success. This could be anything from a room to run the Hackathon in, to equipment or software that you need to use. It could be anything from a projector to a whiteboard, or even just Pizza. Help us work out what we need.
+
+------------------------------------------------------------------------
+
+Happy Hacking!
+
+
+## Let's get hacking!
+
+There are 5 very flexible 'future-facing' Lenses - but do not be constrained by them. 
+
+| **Lens** | **Special emphasis** |
+|------------------------------------|------------------------------------|
+| **1. Local Community & Civic Life** | Mental‑health equity, public engagement with Psychology or mental/physical health, wellbeing in public spaces. |
+| **2. Department & University** | Departmental culture, departmental community, student voice, extracurricular activities, social scene. |
+| **3. Schools & Aspiring Psychologists** | Widening participation, mentorship pathways, GCSE/A‑level alignment. |
+| **4. Personal Future (Life & Career)** | Skills development, career values, finance, work–life balance, digital identity, CV and portfolio development. |
+| **5. Research & the Discipline** | Reproducibility, open data norms, interdisciplinary collaboration, AI ethics. |
+
+## Ideas Buffet
+
+### **1 Local Community & Civic Life**
+
+| **Flavour** | **examples** |
+|------------------------------------|------------------------------------|
+| **Serious** | *“How might we cut the six‑month CBT waiting list in our NHS trust by triaging mild cases to peer‑support apps?”* |
+| **Worthy** | *“Can we co‑design a pop‑up ‘wellbeing kiosk’ at the Goldsmiths Gate for the public passsing by or in the Cafe for students from other depts?”* |
+| **Fun** | *“Design a dog‑walking ‘buddy’ scheme to help combat loneliness or just to get your steps in.”* |
+| **Frivolous** | *“Map every coffee shop within a mile of campus and rank them by mood boost in a week‑long N‑of‑1 experiment.”* |
+
+### **2 Department & University**
+
+| **Flavour** | **examples** |
+|------------------------------------|------------------------------------|
+| **Serious** | *“Mentor incoming first years in Welcome Week.”* |
+| **Worthy** | *“Launch an Open‑Science ‘badging’ system for coursework to normalise Open Science practices in the department.”* |
+| **Fun** | *“Develop a set of videos for first year students ‘Psycho‑Bake Off’ where cakes visualise statistical concepts.”* |
+| **Frivolous** | *“Create an app that uses facial recognition to take attendance - and see if anyone falls asleep!).”* |
+
+### **3 Schools & Aspiring Psychologists**
+
+| **Flavour** | **examples** |
+|------------------------------------|------------------------------------|
+| **Serious** | *“Develop a compact lesson plan that gets Year 10 pupils running a mini‑experiment on sleep and grades.”* |
+| **Worthy** | *“Mentor programme: pair undergrads with sixth‑formers from low‑participation postcodes in the local areas.”* |
+| **Fun** | *“Design a travelling ‘Brain Escape Room’ that we can take to schools and run on OpenDays.”* |
+| **Frivolous** | *“TikTok challenge: Run an experiment to test psychological principles by racing to a million views - including behind the scenes story and theory”* |
+
+### **4 Personal Future (Life & Career)**
+
+| **Flavour** | **examples** |
+|------------------------------------|------------------------------------|
+| **Serious** | *“Build a decision‑matrix tool that matches my strengths to psychology careers and flags required postgraduate routes.”* |
+| **Worthy** | *“Research and develop a micro-course or podcast for students or school kids”* |
+| **Fun** | *“Start sharing your Psychological insights with a student blog, publication or social media account ”* |
+| **Frivolous** | *“Hack revision and train yourself to crave revision by pairing flashcards with your favourite snack (Pavlov meets Pringles).”* |
+
+### **5 Research & the Discipline**
+
+| **Flavour** | **Prompt examples** |
+|------------------------------------|------------------------------------|
+| **Serious** | *“Automate p‑curve analysis for every dissertation to flag questionable research practices.”* |
+| **Worthy** | *“Develop a departmental OpenScience badge system for Y2 & 3 Science Fair/Conference”* |
+| **Fun** | *“Curate a series of classic psychology experiments with modern replications/extenssions.”* |
+| **Frivolous** | *“Work out how to find the most annoying sound in the world.”* |
+
+## Upload any Artifacts as files or photos
+
+[Upload artifacts as files or photos](https://goldpsych.eu.qualtrics.com/jfe/form/SV_8q9cuJ9Xq6Xb6fQ)
+
+![](images/HackFileUpload.png)
+
+```{=html}
+<hr style="margin-top: 4rem; border-color: #cc0000;"/>
+
+<footer class="text-center px-3 py-4" style="font-family: 'Atkinson Hyperlegible', monospace; background: linear-gradient(to right, #1a1a1a, #000000); color: #cccccc; border-top: 2px solid #ff4444; box-shadow: 0 -4px 10px rgba(255, 0, 0, 0.2);">
+
+<p style="font-size: 1.1rem; margin-bottom: 0.5rem;">
+  <strong>
+    Made with ❤️,
+    <img src="images/quarto-logo.png" alt="Quarto" style="height: 1.2em; vertical-align: text-bottom;">
+    +
+    <img src="images/Rlogo.png" alt="R" style="height: 1.2em; vertical-align: text-bottom;">
+    , and questionable 80s movie references
+  </strong>
+</p>
+
+  <p style="font-size: 0.95rem;">
+    A <span style="color: #ff4444;">LittleMonkeyLab</span> Caper · Assembled by <em>Dr Gordon Wright</em> · 2025
+  </p>
+
+  <p style="font-size: 0.95rem; font-style: italic; color: #999;">
+    “I’ve seen things you people wouldn’t believe… Bonferroni ignored, assumptions untested, and interaction effects misread… saved version FINALFINALFINAL, lost - like teardrops in the rain”
+  </p>
+
+  <p style="margin-top: 1rem; font-size: 0.85rem; color: #666;">
+    ⚠️ Warning: Exposure to this content may result in enhanced agency, temporal disruption, and a mild obsession with experimental design.
+  </p>
+
+</footer>
+```
