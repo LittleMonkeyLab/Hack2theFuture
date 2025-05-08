@@ -27,42 +27,48 @@ format:
 
 *Student-led creative or academic-adjacent projects* that are:
 
-- **Useful** — build skills, tools, or resources  
-- **Fun** — driven by curiosity, not grades  
-- **Flexible** — fits around lectures and life  
+-   **Useful** — build skills, tools, or resources\
+-   **Fun** — driven by curiosity, not grades\
+-   **Flexible** — fits around lectures and life
 
 > Staff act as talent-scouts & door-openers and co-creators (please!), not micro-managers.
 
----
+------------------------------------------------------------------------
 
 ## Great Ideas (I think!)
 
 ### Goldsmiths Observatory 🔬
+
+[A bit emotional](https://huggingface.co/spaces/LittleMonkeyLab/All_a_bit_emotional)
+
 Python toolkit for micro-expression analysis → first-author conference poster in prep.
 
 ### Discord Server 💬
+
+[Example Discord Server](https://discord.com/channels/1369261702964838420/1369264796779806795)
+
 A safer, saner online comms channel with wider functionality than WhatSapp; zero midnight WhatsApp meltdowns or misleading rumours.
 
 ### Community Profile 📑
-A database I have been keeping for student volunteering and contributions that are often unknown to people writing reference letters. 
-40 + entries logged; referenced in 12 postgraduate applications.
+
+A database I have been keeping for student volunteering and contributions that are often unknown to people writing reference letters. 40 + entries logged; referenced in 12 postgraduate applications.
 
 ### Makers’ Club 🛠️
+
 Arduino-based BioPhys pack and night-vision camera rig for Ghost/Psychomanteum experiment saved £600 in kit costs for a third year project student.
 
----
+------------------------------------------------------------------------
 
 ## Idea Buffet
 
 | Theme | Sample Seeds |
-|-------|--------------|
+|------------------------|-----------------------------------------------|
 | **Coding** | Automated Lecture transcription and note prep · R Shiny's for quick data calculations or learning statistical concepts |
 | **Content** | Blog series on “Psych in the wild” · GCSE lesson packs |
-| **Peer Support** | Flashcard exchange · Peer2Peer "let's find out" Stats clinic walk-ups · Shut up and Write sessions|
-| **Project Planning** | Take organisational roles in Science Fair or Y3 Journal/Conference|
+| **Peer Support** | Flashcard exchange · Peer2Peer "let's find out" Stats clinic walk-ups · Shut up and Write sessions |
+| **Project Planning** | Take organisational roles in Science Fair or Y3 Journal/Conference |
 
----
-
+------------------------------------------------------------------------
 
 ```{=html}
 <hr style="margin-top: 4rem; border-color: #cc0000;"/>

@@ -10,82 +10,85 @@ format:
       data-background-opacity: "0.50"
 ---
 
-## Breakout Club  
+## Breakout Club
+
 ### *useful · fun · psychology*
 
----
+------------------------------------------------------------------------
 
 ### From **Breakfast** to **Breakout**
 
-- 2020 lockdown → “*Breakfast Club*” ☕  
-- 8am starts ≠ happiness  
-- Re-branded **Breakout Club** → flexible, student-driven  
-- I facilitate (and contribute), students lead
+-   2020 lockdown → “*Breakfast Club*” ☕\
+-   8am starts ≠ happiness\
+-   Re-branded **Breakout Club** → flexible, student-driven\
+-   I facilitate (and contribute), students lead
 
----
+------------------------------------------------------------------------
 
 ## Guiding Principles 🧭
 
-1. Fits **your** schedule and time constraints  
-2. Builds **your** CV / portfolio  
-3. Psychology-related **or** skill-building  
-4. Low barrier to entry · high ceiling for growth
+1.  Fits **your** schedule and time constraints\
+2.  Builds **your** CV / portfolio\
+3.  Psychology-related **or** skill-building\
+4.  Low barrier to entry · high ceiling for growth
 
----
+------------------------------------------------------------------------
 
 ### Goldsmiths Observatory 🔬
 
-<img src="images/observatory.jpg" alt="" width="55%" style="border-radius:8px;">
+[A bit emotional](https://huggingface.co/spaces/LittleMonkeyLab/All_a_bit_emotional)
 
-*Python toolbox for micro-expression analysis*  
-- Born in a dissertation project  
-- Taught the author to code  
+*Python toolbox for micro-expression analysis*\
+- Born in a dissertation project\
+- Taught the author to code\
 - Now a reusable research asset
 
----
+------------------------------------------------------------------------
 
 ### Discord Server 💬
 
-- Alternative to noisy WhatsApp groups  
-- Channels by topic (stats help, memes, RE good news)  
-- Staff can drop in, **no constant supervision** required  
-- Promised to build community during remote teaching
+[Discord Server Example](https://discord.com/channels/1369261702964838420/1369264796779806795)
 
----
+-   Alternative to noisy WhatsApp groups\
+-   Channels by topic (stats help, memes, RE good news)\
+-   Staff can drop in, **no constant supervision** required\
+-   Promised to build community during remote teaching
+
+------------------------------------------------------------------------
 
 ### Community Profile 📑
 
 > A living CV of *unassessed* contributions
 
-- Open-day helper, mentor, lab assistant, etc.  
-- Logged by staff in a shared database (opt-in)  
-- Easy for referees to pull talking points and evidence of your greatness!
+-   Open-day helper, mentor, lab assistant, etc.\
+-   Logged by staff in a shared database (opt-in)\
+-   Easy for referees to pull talking points and evidence of your greatness!
 
----
+------------------------------------------------------------------------
 
 ### Flashcard & Revision Tools 🧠
 
-- Re-package last year’s notes  
-- Spaced-repetition decks, explainer videos, mini-podcasts  
-- Peer-created → peer-reviewed → first-years benefit
+-   Re-package last year’s notes\
+-   Spaced-repetition decks, explainer videos, mini-podcasts\
+-   Peer-created → peer-reviewed → first-years benefit
 
----
+------------------------------------------------------------------------
 
 ### Blogging & OER ✍️
 
-- Write primers, annotated bibliographies, GCSE lesson plans  
-- Publish to department blog or OER Commons  
-- Citable URL/DOI (AUTHORSHIPS!) for applications & LinkedIn
+-   Write primers, annotated bibliographies, GCSE lesson plans\
+-   Publish to department blog or OER Commons\
+-   Citable URL/DOI (AUTHORSHIPS!) for applications & LinkedIn
 
----
+------------------------------------------------------------------------
 
 ### Electronics & Makers 🛠️
 
-- DIY EEG, VR rigs, custom game controllers for Psych experiments  
-- Sensors for bio-feedback studies  
-- Great for dissertations, demos & hackathons
+-   DIY EEG, VR rigs, custom game controllers for Psych experiments\
+-   Sensors for bio-feedback studies\
+-   Great for dissertations, demos & hackathons
 
----
+------------------------------------------------------------------------
 
 ## How to Get Involved 🚀
 
@@ -93,6 +96,4 @@ format:
 
 What does it look like, how does it work, and what help do you need?
 
----
-
-
+------------------------------------------------------------------------
